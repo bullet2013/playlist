@@ -11,8 +11,6 @@ http://tv.leveltele.com:2222/299/index.m3u8
 http://tv.leveltele.com:2222/306/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="detsky-mir" tvg-logo="https://picon.ml/detsky-mir.png",Детский мир
 http://tv.leveltele.com:2222/305/index.m3u8
-#EXTINF:0 group-title="Детские" tvg-id="disney" tvg-logo="https://picon.ml/disney.png",Канал Disney
-http://tv.leveltele.com:2222/298/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="karusel" tvg-logo="https://picon.ml/karusel.png",Карусель
 http://tv.leveltele.com:2222/304/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="mult" tvg-logo="https://picon.ml/mult.png",Мульт
@@ -25,6 +23,8 @@ http://tv.leveltele.com:2222/303/index.m3u8
 http://tv.leveltele.com:2222/315/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="o_" tvg-logo="https://picon.ml/o_.png",О!
 http://tv.leveltele.com:2222/310/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="solnce" tvg-logo="https://picon.ml/solnce.png",Солнце
+http://tv.leveltele.com:2222/298/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="sts-kids-hd" tvg-logo="https://picon.ml/sts-kids-hd.png",СТС Kids
 http://tv.leveltele.com:2222/309/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="sts-kids-hd" tvg-logo="https://picon.ml/sts-kids-hd.png",СТС Kids HD
