@@ -65,13 +65,13 @@ http://tv.leveltele.com:2222/273/index.m3u8
 http://tv.leveltele.com:2222/275/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="shanson-tv" tvg-logo="https://picon.ml/shanson-tv.png",Шансон-TB
 http://tv.leveltele.com:2222/286/index.m3u8
-#EXTINF:0 group-title="Новостные" tvg-id="rossia-24" tvg-logo="https://picon.ml/rossia-24.png",Poccия 24
+#EXTINF:0 group-title="Новостные" tvg-id="rossia-24" tvg-logo="https://picon.ml/rossia-24.png",Россия 24
 http://tv.leveltele.com:2222/19/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="belarus24" tvg-logo="https://picon.ml/belarus24.png",Беларусь-24
 http://tv.leveltele.com:2222/325/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="vremia" tvg-logo="https://picon.ml/vremia.png",Время
 http://tv.leveltele.com:2222/38/index.m3u8
-#EXTINF:0 group-title="Новостные" tvg-id="izvestia" tvg-logo="https://picon.ml/izvestia.png",Извеcтия
+#EXTINF:0 group-title="Новостные" tvg-id="izvestia" tvg-logo="https://picon.ml/izvestia.png",Известия
 http://tv.leveltele.com:2222/7/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="mir-24" tvg-logo="https://picon.ml/mir24.png",Мир 24
 http://tv.leveltele.com:2222/16/index.m3u8
@@ -81,29 +81,29 @@ http://tv.leveltele.com:2222/15/index.m3u8
 http://tv.leveltele.com:2222/21/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="rbk" tvg-logo="https://picon.ml/rbk.png",РБК
 http://tv.leveltele.com:2222/23/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="360-podmoskovie" tvg-logo="https://picon.ml/360-podmoskovie.png",360° Пoдмосковье
+#EXTINF:0 group-title="Общие" tvg-id="360-podmoskovie" tvg-logo="https://picon.ml/360-podmoskovie.png",360° Подмосковье
 http://tv.leveltele.com:2222/9/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="360-podmoskovie" tvg-logo="https://picon.ml/360-podmoskovie.png",360° Пoдмосковье HD
+#EXTINF:0 group-title="Общие" tvg-id="360-podmoskovie" tvg-logo="https://picon.ml/360-podmoskovie.png",360° Подмосковье HD
 http://tv.leveltele.com:2222/8/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="8kanal-ru" tvg-logo="https://picon.ml/8kanal-ru.png",8 канал
 http://tv.leveltele.com:2222/27/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="ntv" tvg-logo="https://picon.ml/ntv-white.png",HTB
+#EXTINF:0 group-title="Общие" tvg-id="ntv" tvg-logo="https://picon.ml/ntv-white.png",НТВ
 http://tv.leveltele.com:2222/13/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="ntv" tvg-logo="https://picon.ml/ntv-white.png",HTB HD
+#EXTINF:0 group-title="Общие" tvg-id="ntv" tvg-logo="https://picon.ml/ntv-white.png",НТВ HD
 http://tv.leveltele.com:2222/12/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Oплот HD
+#EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Оплот HD
 http://tv.leveltele.com:2222/356/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Oплот 2 TV
+#EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Оплот 2 TV
 http://tv.leveltele.com:2222/353/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="rentv" tvg-logo="https://picon.ml/rentv.png",Peн ТВ
+#EXTINF:0 group-title="Общие" tvg-id="rentv" tvg-logo="https://picon.ml/rentv.png",Рен ТВ
 http://tv.leveltele.com:2222/24/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="rossia1" tvg-logo="https://picon.ml/rossia1.png",Poccия 1
+#EXTINF:0 group-title="Общие" tvg-id="rossia1" tvg-logo="https://picon.ml/rossia1.png",Россия 1
 http://tv.leveltele.com:2222/5/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="rossia1" tvg-logo="https://picon.ml/rossia1.png",Poccия 1 HD
+#EXTINF:0 group-title="Общие" tvg-id="rossia1" tvg-logo="https://picon.ml/rossia1.png",Россия 1 HD
 http://tv.leveltele.com:2222/4/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="domashny" tvg-logo="https://picon.ml/domashny.png",Домашний
 http://tv.leveltele.com:2222/35/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="zvezda" tvg-logo="https://picon.ml/zvezda.png",Звeзда
+#EXTINF:0 group-title="Общие" tvg-id="zvezda" tvg-logo="https://picon.ml/zvezda.png",Звезда
 http://tv.leveltele.com:2222/18/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="kvn-tv" tvg-logo="https://picon.ml/kvn-tv.png",КВН ТВ
 http://tv.leveltele.com:2222/115/index.m3u8
@@ -111,19 +111,19 @@ http://tv.leveltele.com:2222/115/index.m3u8
 http://tv.leveltele.com:2222/98/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="mir" tvg-logo="https://picon.ml/mir.png",Миp
 http://tv.leveltele.com:2222/28/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Новоpoccия ТВ
+#EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Новороссия ТВ
 http://tv.leveltele.com:2222/355/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="otr" tvg-logo="https://picon.ml/otr.png",ОТР
 http://tv.leveltele.com:2222/22/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Пepвый Peспубликанский
+#EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Первый Республиканский
 http://tv.leveltele.com:2222/354/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="pervy" tvg-logo="https://picon.ml/pervyj.png",Пepвый канал
+#EXTINF:0 group-title="Общие" tvg-id="pervy" tvg-logo="https://picon.ml/pervyj.png",Первый канал
 http://tv.leveltele.com:2222/2/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="pervy" tvg-logo="https://picon.ml/pervyj.png",Пepвый канал HD
+#EXTINF:0 group-title="Общие" tvg-id="pervy" tvg-logo="https://picon.ml/pervyj.png",Первый канал HD
 http://tv.leveltele.com:2222/1/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="piatnica" tvg-logo="https://picon.ml/pyatnica.png",Пятницa
 http://tv.leveltele.com:2222/32/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="5kanal-ru" tvg-logo="https://picon.ml/5kanal-ru.png",Пятый кaнaл
+#EXTINF:0 group-title="Общие" tvg-id="5kanal-ru" tvg-logo="https://picon.ml/5kanal-ru.png",Пятый канал
 http://tv.leveltele.com:2222/25/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="kultura" tvg-logo="https://picon.ml/kultura.png",Россия К
 http://tv.leveltele.com:2222/45/index.m3u8
@@ -153,7 +153,7 @@ http://tv.leveltele.com:2222/114/index.m3u8
 http://tv.leveltele.com:2222/261/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="tro" tvg-logo="https://picon.ml/belros.png",ТРО
 http://tv.leveltele.com:2222/326/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="che" tvg-logo="https://picon.ml/che.png",Чe
+#EXTINF:0 group-title="Общие" tvg-id="che" tvg-logo="https://picon.ml/che.png",Че
 http://tv.leveltele.com:2222/33/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="yu" tvg-logo="https://picon.ml/yu.png",Ю
 http://tv.leveltele.com:2222/44/index.m3u8
