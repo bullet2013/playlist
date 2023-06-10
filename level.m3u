@@ -109,7 +109,7 @@ http://tv.leveltele.com:2222/18/index.m3u8
 http://tv.leveltele.com:2222/115/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="kluch" tvg-logo="https://picon.ml/kluch.png",Ключ
 http://tv.leveltele.com:2222/98/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="mir" tvg-logo="https://picon.ml/mir.png",Миp
+#EXTINF:0 group-title="Общие" tvg-id="mir" tvg-logo="https://picon.ml/mir.png",Мир
 http://tv.leveltele.com:2222/28/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Новороссия ТВ
 http://tv.leveltele.com:2222/355/index.m3u8
@@ -121,7 +121,7 @@ http://tv.leveltele.com:2222/354/index.m3u8
 http://tv.leveltele.com:2222/2/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="pervy" tvg-logo="https://picon.ml/pervyj.png",Первый канал HD
 http://tv.leveltele.com:2222/1/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="piatnica" tvg-logo="https://picon.ml/pyatnica.png",Пятницa
+#EXTINF:0 group-title="Общие" tvg-id="piatnica" tvg-logo="https://picon.ml/pyatnica.png",Пятница
 http://tv.leveltele.com:2222/32/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="5kanal-ru" tvg-logo="https://picon.ml/5kanal-ru.png",Пятый канал
 http://tv.leveltele.com:2222/25/index.m3u8
