@@ -355,6 +355,8 @@ http://tv.leveltele.com:2222/175/index.m3u8
 http://tv.leveltele.com:2222/186/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="cinema-ru" tvg-logo="https://picon.pp.ua/cinema.png",Cinema
 http://tv.leveltele.com:2222/200/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="cinema-ru" tvg-logo="https://picon.pp.ua/cinema.png",Cinema HD
+http://tv.leveltele.com:2222/528/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="filmbox-ru" tvg-logo="https://picon.pp.ua/filmbox-ru.png",FilmBox
 http://tv.leveltele.com:2222/225/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="filmbox-arthouse" tvg-logo="https://picon.pp.ua/filmbox-arthouse.png",FilmBox ArtHouse
