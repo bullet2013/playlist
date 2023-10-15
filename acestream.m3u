@@ -541,5 +541,3 @@ http://185.182.82.61:8000/pid/8bff31504247530c1be06395c11c38ecd1895964/stream.mp
 http://185.182.82.61:8000/pid/62f68471bab075eb96e5db4559e7994427db111b/stream.mp4
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-svaty" tvg-logo="",BCU Сваты HD
 http://185.182.82.61:8000/pid/5cea434c891d27aa66d87d3b23d91ab74c1c72f8/stream.mp4
-#EXTINF:0 group-title="Фильмы" tvg-id="bcu-kinozal-prem-1" tvg-logo="",BCU Кинозал Premiere 1 HD
-http://185.182.82.61:9981/stream/channel/b20749d5b596679f6a88d4c3b926f51f?ticket=5a538c8c49c48a5babfd8ca45d03886d4916cad8
