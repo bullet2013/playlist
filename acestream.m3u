@@ -473,6 +473,8 @@ http://tv.leveltele.com:2222/216/index.m3u8
 http://tv.leveltele.com:2222/180/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="shokiruyushchee-hd" tvg-logo="https://picon.pp.ua/shokiruyushchee.png",Шокирующее HD
 http://tv.leveltele.com:2222/147/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="kamedi" tvg-logo="https://picon.pp.ua/kamedi.png",Камеди HD
+http://185.182.82.61:6878/ace/getstream?id=69f02544ef5a6029b4ac7b34a7af5616437c64e0
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-action" tvg-logo="https://picon.pp.ua/bcu-action.png",BCU Action HD
 http://185.182.82.61:6878/ace/getstream?id=3c679a39456838ea8abc77b288c95df2b7a3f45d
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-catastrophe" tvg-logo="",BCU Catastrophe HD
