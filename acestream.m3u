@@ -541,3 +541,5 @@ http://192.168.1.112:6878/ace/manifest.m3u8?id=8bff31504247530c1be06395c11c38ecd
 http://192.168.1.112:6878/ace/manifest.m3u8?id=62f68471bab075eb96e5db4559e7994427db111b&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-svaty" tvg-logo="",BCU Сваты HD
 http://192.168.1.112:6878/ace/manifest.m3u8?id=5cea434c891d27aa66d87d3b23d91ab74c1c72f8&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
+#EXTINF:0 group-title="Фильмы" tvg-id="bcu-svaty" tvg-logo="",BCU Сваты HDcopy
+http://192.168.1.112:6878/ace/manifest.m3u8?id=5cea434c891d27aa66d87d3b23d91ab74c1c72f8&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
