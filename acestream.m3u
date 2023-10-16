@@ -541,3 +541,7 @@ http://185.182.82.61:6878/ace/getstream?id=8bff31504247530c1be06395c11c38ecd1895
 http://185.182.82.61:6878/ace/getstream?id=62f68471bab075eb96e5db4559e7994427db111b
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-svaty" tvg-logo="",BCU Сваты HD
 http://185.182.82.61:6878/ace/getstream?id=5cea434c891d27aa66d87d3b23d91ab74c1c72f8
+#EXTINF:-1 tvg-name="BCU Kids 4K" group-title="kids" group-title="фильмы",BCU Kids 4K
+http://192.168.1.112:6878/ace/manifest.m3u8?id=c3aa52aab6bd48c3b79189410fbf716f2e4dd293&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
+#EXTINF:-1 tvg-name="Камеди HD" group-title="movies" group-title="фильмы",Камеди HD
+http://192.168.1.112:6878/ace/manifest.m3u8?id=69f02544ef5a6029b4ac7b34a7af5616437c64e0&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
