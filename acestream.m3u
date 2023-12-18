@@ -427,6 +427,8 @@ http://tv.leveltele.com:2222/193/index.m3u8
 http://tv.leveltele.com:2222/194/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kinoxit" tvg-logo="https://picon.pp.ua/kinoxit.png",Кинохит
 http://tv.leveltele.com:2222/192/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="kinoxit" tvg-logo="https://picon.pp.ua/kinoxit.png",Кинохит HD
+http://91.211.248.60:8000/pid/f1fe45c8d5f58301c74dde7acaf4db13e497b586/stream.mp4
 #EXTINF:0 group-title="Фильмы" tvg-id="komedijnoe-hd" tvg-logo="https://picon.pp.ua/komedijnoe.png",Комедийное HD
 http://tv.leveltele.com:2222/148/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="lubimoe-kino" tvg-logo="https://picon.pp.ua/lubimoe-kino.png",Любимое кино
