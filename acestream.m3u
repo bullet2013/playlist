@@ -379,10 +379,16 @@ http://tv.leveltele.com:2222/188/index.m3u8
 http://tv.leveltele.com:2222/202/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="tv1000" tvg-logo="https://picon.pp.ua/tv1000.png",TV1000
 http://tv.leveltele.com:2222/161/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="tv1000" tvg-logo="https://picon.pp.ua/tv1000.png",TV1000 HD
+http://91.211.248.60:8000/pid/ae0d6d703ef80198263a1a868740cf059eac4e9e/stream.mp4
 #EXTINF:0 group-title="Фильмы" tvg-id="tv1000-action" tvg-logo="https://picon.pp.ua/tv1000action.png",TV1000 Action
 http://tv.leveltele.com:2222/163/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="tv1000-action" tvg-logo="https://picon.pp.ua/tv1000action.png",TV1000 Action HD
+http://91.211.248.60:8000/pid/05a7dd3bf60e16ed1674cb437e1e00084392285e/stream.mp4
 #EXTINF:0 group-title="Фильмы" tvg-id="tv1000-russkoe-kino" tvg-logo="https://picon.pp.ua/tv1000ruskino.png",TV1000 Русское кино
 http://tv.leveltele.com:2222/165/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="tv1000-russkoe-kino" tvg-logo="https://picon.pp.ua/tv1000ruskino.png",TV1000 Русское кино HD
+http://91.211.248.60:8000/pid/af4baf7f76a3057eeea815c90747860e9fec488a/stream.mp4
 #EXTINF:0 group-title="Фильмы" tvg-id="vip-comedy" tvg-logo="https://picon.pp.ua/vip-comedy.png",ViP Comedy HD
 http://tv.leveltele.com:2222/151/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="vip-megahit" tvg-logo="https://picon.pp.ua/vip-megahit.png",ViP Megahit HD
@@ -411,6 +417,8 @@ http://tv.leveltele.com:2222/177/index.m3u8
 http://tv.leveltele.com:2222/154/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kinokomedia" tvg-logo="https://picon.pp.ua/kinokomedia.png",Кинокомедия
 http://tv.leveltele.com:2222/198/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="kinokomedia" tvg-logo="https://picon.pp.ua/kinokomedia.png",Кинокомедия HD
+http://91.211.248.60:8000/pid/dfb83e3ff3c570ba7346641c827d89bd472a18a2/stream.mp4
 #EXTINF:0 group-title="Фильмы" tvg-id="kinomiks" tvg-logo="https://picon.pp.ua/kinomiks.png",Киномикс
 http://tv.leveltele.com:2222/159/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kinomiks" tvg-logo="https://picon.pp.ua/kinomiks.png",Киномикс HD
@@ -421,8 +429,12 @@ http://tv.leveltele.com:2222/153/index.m3u8
 http://tv.leveltele.com:2222/358/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kinosvidanie" tvg-logo="https://picon.pp.ua/kinosvidanie.png",Киносвидание
 http://tv.leveltele.com:2222/197/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="kinosvidanie" tvg-logo="https://picon.pp.ua/kinosvidanie.png",Киносвидание HD
+http://91.211.248.60:8000/pid/f5302ed56cf6af61378b2527524398558d9cddde/stream.mp4
 #EXTINF:0 group-title="Фильмы" tvg-id="kinosemiya" tvg-logo="https://picon.pp.ua/kinosemia.png",Киносемья
 http://tv.leveltele.com:2222/193/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="kinosemiya" tvg-logo="https://picon.pp.ua/kinosemia.png",Киносемья HD
+http://91.211.248.60:8000/pid/e177586ae336f410e95e784348e4a1f7a82e0952/stream.mp4
 #EXTINF:0 group-title="Фильмы" tvg-id="kinoseria" tvg-logo="https://picon.pp.ua/kinoseria.png",Киносерия
 http://tv.leveltele.com:2222/194/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kinoxit" tvg-logo="https://picon.pp.ua/kinoxit.png",Кинохит
