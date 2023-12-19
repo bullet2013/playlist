@@ -430,7 +430,7 @@ http://tv.leveltele.com:2222/358/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kinosvidanie" tvg-logo="https://picon.pp.ua/kinosvidanie.png",Киносвидание
 http://tv.leveltele.com:2222/197/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kinosvidanie" tvg-logo="https://picon.pp.ua/kinosvidanie.png",Киносвидание HD
-http://127.0.0.1:6878/ace/manifest.m3u8?id=f5302ed56cf6af61378b2527524398558d9cddde&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
+http://192.168.1.112:6878/ace/manifest.m3u8?id=f5302ed56cf6af61378b2527524398558d9cddde&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="kinosemiya" tvg-logo="https://picon.pp.ua/kinosemia.png",Киносемья
 http://tv.leveltele.com:2222/193/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kinosemiya" tvg-logo="https://picon.pp.ua/kinosemia.png",Киносемья HD
