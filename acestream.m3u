@@ -1,543 +1,543 @@
-#EXTM3U description="Medium" size="Medium" background="#11609e"
+#EXTM3U url-tvg=iptvx.one
 #EXTINF:0 group-title="Детские" tvg-id="2na2" tvg-logo="https://picon.pp.ua/2x2.png",2x2
-http://192.168.1.112:82/channel/n13c7418e/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/311/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="ani" tvg-logo="https://picon.pp.ua/ani.png",Ani
-http://192.168.1.112:82/channel/n13c70a3e/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/313/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="gulli-girl" tvg-logo="https://picon.pp.ua/gulligirl.png",Gulli Girl
-http://192.168.1.112:82/channel/n5d34b625/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/300/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="tiji" tvg-logo="https://picon.pp.ua/tiji.png",TiJi
-http://192.168.1.112:82/channel/n6511b092/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/299/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="v-gostiax-u-skazki" tvg-logo="https://picon.pp.ua/v-gostiax-u-skazki.png",В гостях у сказки
-http://192.168.1.112:82/channel/3bbe3ad1/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/306/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="detsky-mir" tvg-logo="https://picon.pp.ua/detsky-mir.png",Детский мир
-http://192.168.1.112:82/channel/n65d6853b/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/305/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="karusel" tvg-logo="https://picon.pp.ua/karusel.png",Карусель
-http://192.168.1.112:82/channel/n64d20c68/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/304/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="mult" tvg-logo="https://picon.pp.ua/mult.png",Мульт
-http://192.168.1.112:82/channel/n60c0390/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/308/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="mult" tvg-logo="https://picon.pp.ua/mult.png",Мульт HD
-http://192.168.1.112:82/channel/4fedeeac/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/296/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="multimania" tvg-logo="https://picon.pp.ua/multimania.png",Мультимания
-http://192.168.1.112:82/channel/n50a9f4a8/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/303/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="multimuzyka" tvg-logo="https://picon.pp.ua/multimuzyka.png",МультиМузыка
-http://192.168.1.112:82/channel/5d99919/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/315/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="o_" tvg-logo="https://picon.pp.ua/o_.png",О!
-http://192.168.1.112:82/channel/n19690d03/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/310/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="solnce" tvg-logo="https://picon.pp.ua/solnce.png",Солнце
-http://192.168.1.112:82/channel/4ccd2388/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/298/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="sts-kids-hd" tvg-logo="https://picon.pp.ua/sts-kids-hd.png",СТС Kids
-http://192.168.1.112:82/channel/1cb1ce47/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/309/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="sts-kids-hd" tvg-logo="https://picon.pp.ua/sts-kids-hd.png",СТС Kids HD
-http://192.168.1.112:82/channel/37743975/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/125/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="detsky" tvg-logo="https://picon.pp.ua/unikum.png",Уникум
-http://192.168.1.112:82/channel/5027548f/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/307/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="bridge-tv" tvg-logo="https://picon.pp.ua/bridge-tv.png",Bridge TV
-http://192.168.1.112:82/channel/33adbddf/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/282/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="bridge-hd" tvg-logo="https://picon.pp.ua/bridge-hd.png",Bridge HD
-http://192.168.1.112:82/channel/33adbc59/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/264/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="bridge-tv-ruxit" tvg-logo="https://picon.pp.ua/bridge-tv-ruxit.png",Bridge TV Русский хит
-http://192.168.1.112:82/channel/7254c386/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/283/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="europa-plus-tv" tvg-logo="https://picon.pp.ua/europa-plus-tv.png",Europa Plus TV
-http://192.168.1.112:82/channel/n34c78580/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/272/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="mezzo" tvg-logo="https://picon.pp.ua/mezzo.png",Mezzo
-http://192.168.1.112:82/channel/n3d882103/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/288/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="ru-tv" tvg-logo="https://picon.pp.ua/ru-tv.png",RU.TV
-http://192.168.1.112:82/channel/n3d4a136d/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/276/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="c-music-tv" tvg-logo="https://picon.pp.ua/c-music-tv.png",Stingray CMusic
-http://192.168.1.112:82/channel/73564bdf/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/265/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="iconcerts" tvg-logo="https://picon.pp.ua/iconcerts.png",Stingray iConcerts
-http://192.168.1.112:82/channel/n6b7b9b47/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/287/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="vh1-classic" tvg-logo="https://picon.pp.ua/vh1-classic.png",VH1 Classic
-http://192.168.1.112:82/channel/25731717/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/279/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="vostok-tv" tvg-logo="https://picon.pp.ua/vostok-tv.png",Восток ТВ
-http://192.168.1.112:82/channel/9b7732d/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/289/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="zhara" tvg-logo="https://picon.pp.ua/zhara.png",Жара
-http://192.168.1.112:82/channel/n634db6fc/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/274/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="la-minor" tvg-logo="https://picon.pp.ua/la-minor.png",Ля-минор
-http://192.168.1.112:82/channel/76bb2004/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/285/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="maydan" tvg-logo="https://picon.pp.ua/maydan.png",Майдан
-http://192.168.1.112:82/channel/437e9236/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/290/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="muztv" tvg-logo="https://picon.pp.ua/muztv.png",Муз-ТВ
-http://192.168.1.112:82/channel/447a47e7/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/277/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="muzyka-pervogo" tvg-logo="https://picon.pp.ua/muzyka-pervogo.png",Музыка Первого
-http://192.168.1.112:82/channel/n5bd94bd4/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/273/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="tnt-music" tvg-logo="https://picon.pp.ua/tnt-music.png",ТНТ Music
-http://192.168.1.112:82/channel/3b6e9f72/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/275/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="shanson-tv" tvg-logo="https://picon.pp.ua/shanson-tv.png",Шансон-TB
-http://192.168.1.112:82/channel/43fbd796/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/286/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="rossia-24" tvg-logo="https://picon.pp.ua/rossia-24.png",Россия 24
-http://192.168.1.112:82/channel/23752d73/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/19/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="belarus24" tvg-logo="https://picon.pp.ua/belarus24.png",Беларусь-24
-http://192.168.1.112:82/channel/3a198c4e/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/325/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="vremia" tvg-logo="https://picon.pp.ua/vremia.png",Время
-http://192.168.1.112:82/channel/n69a6420/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/38/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="izvestia" tvg-logo="https://picon.pp.ua/izvestia.png",Известия
-http://192.168.1.112:82/channel/250e4754/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/7/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="mir-24" tvg-logo="https://picon.pp.ua/mir24.png",Мир 24
-http://192.168.1.112:82/channel/43e2adf8/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/16/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="mir-25" tvg-logo="https://picon.pp.ua/mir24.png",Мир 24 HD
-http://192.168.1.112:82/channel/n180c8fdc/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/15/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="moskva-24" tvg-logo="https://picon.pp.ua/moskva-24.png",Москва-24
-http://192.168.1.112:82/channel/n39f0eea4/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/21/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="rbk" tvg-logo="https://picon.pp.ua/rbk.png",РБК
-http://192.168.1.112:82/channel/n13b80db1/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/23/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="360-podmoskovie" tvg-logo="https://picon.pp.ua/360-podmoskovie.png",360° Подмосковье
-http://192.168.1.112:82/channel/n5d90e9f6/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/9/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="360-podmoskovie" tvg-logo="https://picon.pp.ua/360-podmoskovie.png",360° Подмосковье HD
-http://192.168.1.112:82/channel/n62c9c92e/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/8/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="8kanal-ru" tvg-logo="https://picon.pp.ua/8kanal-ru.png",8 канал
-http://192.168.1.112:82/channel/6df19f30/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/27/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="ntv" tvg-logo="https://picon.pp.ua/ntv-white.png",НТВ
-http://192.168.1.112:82/channel/n13b816ed/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/13/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="ntv" tvg-logo="https://picon.pp.ua/ntv-white.png",НТВ HD
-http://192.168.1.112:82/channel/444c9b29/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/12/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Оплот HD
-http://192.168.1.112:82/channel/4b521258/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/356/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Оплот 2 TV
-http://192.168.1.112:82/channel/n40f3a074/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/353/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="rentv" tvg-logo="https://picon.pp.ua/rentv.png",Рен ТВ
-http://192.168.1.112:82/channel/4a8aeac2/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/24/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="rossia1" tvg-logo="https://picon.pp.ua/rossia1.png",Россия 1
-http://192.168.1.112:82/channel/nf5f5120/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/5/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="rossia1" tvg-logo="https://picon.pp.ua/rossia1.png",Россия 1 HD
-http://192.168.1.112:82/channel/1adee63c/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/4/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="domashny" tvg-logo="https://picon.pp.ua/domashny.png",Домашний
-http://192.168.1.112:82/channel/8a24f0e/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/35/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="zvezda" tvg-logo="https://picon.pp.ua/zvezda.png",Звезда
-http://192.168.1.112:82/channel/3b10c053/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/18/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="kvn-tv" tvg-logo="https://picon.pp.ua/kvn-tv.png",КВН ТВ
-http://192.168.1.112:82/channel/3e521485/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/115/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="kluch" tvg-logo="https://picon.pp.ua/kluch.png",Ключ
-http://192.168.1.112:82/channel/n634bba6c/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/98/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="mir" tvg-logo="https://picon.pp.ua/mir.png",Мир
-http://192.168.1.112:82/channel/n13b817d6/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/28/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Новороссия ТВ
-http://192.168.1.112:82/channel/n320e8eac/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/355/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="otr" tvg-logo="https://picon.pp.ua/otr.png",ОТР
-http://192.168.1.112:82/channel/n13b8131e/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/22/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Первый Республиканский
-http://192.168.1.112:82/channel/n4c959e6d/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/354/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="pervy" tvg-logo="https://picon.pp.ua/pervyj.png",Первый канал
-http://192.168.1.112:82/channel/n4257d01e/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/2/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="pervy" tvg-logo="https://picon.pp.ua/pervyj.png",Первый канал HD
-http://192.168.1.112:82/channel/n68e35206/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/1/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="piatnica" tvg-logo="https://picon.pp.ua/pyatnica.png",Пятница
-http://192.168.1.112:82/channel/6fafbd/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/32/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="5kanal-ru" tvg-logo="https://picon.pp.ua/5kanal-ru.png",Пятый канал
-http://192.168.1.112:82/channel/n5117c308/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/25/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="kultura" tvg-logo="https://picon.pp.ua/kultura.png",Россия К
-http://192.168.1.112:82/channel/nf5f4d37/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/45/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="sarafan" tvg-logo="https://picon.pp.ua/sarafan.png",Сарафан
-http://192.168.1.112:82/channel/3533fd98/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/34/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="sts" tvg-logo="https://picon.pp.ua/sts.png",СТС
-http://192.168.1.112:82/channel/n13b807da/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/30/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="sts" tvg-logo="https://picon.pp.ua/sts.png",СТС HD
-http://192.168.1.112:82/channel/4b26cf36/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/360/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="sts-love" tvg-logo="https://picon.pp.ua/sts-love.png",СТС Love
-http://192.168.1.112:82/channel/1cb25b4c/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/223/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="super" tvg-logo="https://picon.pp.ua/subbota.png",Суббота!
-http://192.168.1.112:82/channel/44d50951/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/42/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="tvcentr" tvg-logo="https://picon.pp.ua/tvcentr.png",ТВ Центр
-http://192.168.1.112:82/channel/n645f262a/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/29/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="tv3-ru" tvg-logo="https://picon.pp.ua/tv3-ru.png",ТВ-3
-http://192.168.1.112:82/channel/n63493570/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/26/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="tnv-planeta" tvg-logo="https://picon.pp.ua/tnv.png",ТНВ-Планета
-http://192.168.1.112:82/channel/n25211f16/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/327/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="tnt" tvg-logo="https://picon.pp.ua/tnt.png",ТНТ
-http://192.168.1.112:82/channel/n13b804b3/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/113/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="tnt" tvg-logo="https://picon.pp.ua/tnt.png",ТНТ HD
-http://192.168.1.112:82/channel/4c95a6af/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/112/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="tnt4" tvg-logo="https://picon.pp.ua/tnt4.png",ТНТ4
-http://192.168.1.112:82/channel/n63489179/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/114/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="tochka-otryva" tvg-logo="https://picon.pp.ua/tochka-otryva.png",Точка отрыва
-http://192.168.1.112:82/channel/n502f7ada/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/261/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="tro" tvg-logo="https://picon.pp.ua/belros.png",ТРО
-http://192.168.1.112:82/channel/n13b8045a/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/326/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="che" tvg-logo="https://picon.pp.ua/che.png",Че
-http://192.168.1.112:82/channel/n196907d8/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/33/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="yu" tvg-logo="https://picon.pp.ua/yu.png",Ю
-http://192.168.1.112:82/channel/n746ebe4c/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/44/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Юниoн
-http://192.168.1.112:82/channel/n51199c3/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/351/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="365-dnej" tvg-logo="https://picon.pp.ua/365-dnej.png",365 дней ТВ
-http://192.168.1.112:82/channel/285d085b/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/89/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="da-vinci" tvg-logo="https://picon.pp.ua/da-vinci.png",Da Vinci Learning
-http://192.168.1.112:82/channel/n2f6b89ba/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/104/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="docubox-hd" tvg-logo="https://picon.pp.ua/docubox-hd.png",DocuBox
-http://192.168.1.112:82/channel/37ad7734/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/64/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="e-tv" tvg-logo="https://picon.pp.ua/e-tv.png",E TV
-http://192.168.1.112:82/channel/n65199309/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/262/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="fashion-tv" tvg-logo="https://picon.pp.ua/fashion-tv.png",Fashion TV HD
-http://192.168.1.112:82/channel/n211354a8/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/144/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="fashionbox-hd" tvg-logo="https://picon.pp.ua/fashionbox-hd.png",FashionBox
-http://192.168.1.112:82/channel/2122e24d/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/146/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="galaxy-tv" tvg-logo="https://picon.pp.ua/galaxy-tv.png",Galaxy-TV
-http://192.168.1.112:82/channel/n3263123b/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/100/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="hd-life" tvg-logo="https://picon.pp.ua/hdl.png",HD Life
-http://192.168.1.112:82/channel/n41dc373a/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/76/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="ocean-tv" tvg-logo="https://picon.pp.ua/ocean-tv.png",Ocean TV
-http://192.168.1.112:82/channel/n43b9bb42/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/103/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="rt-doc" tvg-logo="https://picon.pp.ua/rt-doc.png",RT Д
-http://192.168.1.112:82/channel/n6512e990/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/323/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="rtg-tv" tvg-logo="https://picon.pp.ua/rtg-tv.png",RTG
-http://192.168.1.112:82/channel/n13c6cdb5/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/61/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="rtg-hd" tvg-logo="https://picon.pp.ua/rtg-hd.png",RTG HD
-http://192.168.1.112:82/channel/n6bfbd90f/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/60/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="terra-ru" tvg-logo="https://picon.pp.ua/terra-ru.png",Terra
-http://192.168.1.112:82/channel/n3d259b8a/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/59/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="terra-ru" tvg-logo="https://picon.pp.ua/terra-ru.png",Terra HD
-http://192.168.1.112:82/channel/449140e6/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/58/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="travel-adventure" tvg-logo="https://picon.pp.ua/travel-adventure.png",Travel+Adventure
-http://192.168.1.112:82/channel/51828799/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/63/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="viasat-explore" tvg-logo="https://picon.pp.ua/viasat-explore.png",Viasat Explore
-http://192.168.1.112:82/channel/n1356e03b/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/86/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="viasat-history" tvg-logo="https://picon.pp.ua/viasat-history.png",Viasat History
-http://192.168.1.112:82/channel/71f109c6/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/87/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="viasat-nature-cee" tvg-logo="https://picon.pp.ua/viasat-nature.png",Viasat Nature CEE
-http://192.168.1.112:82/channel/397cd6b8/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/88/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="viasat-nature-history-hd" tvg-logo="https://picon.pp.ua/viasat-nature-history-hd.png",Viasat Nature/History HD
-http://192.168.1.112:82/channel/784c542/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/77/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="zoopark" tvg-logo="https://picon.pp.ua/zoopark.png",ZooПарк
-http://192.168.1.112:82/channel/n3a26b895/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/84/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="bobior" tvg-logo="https://picon.pp.ua/bober.png",Бобер
-http://192.168.1.112:82/channel/n6a9744b/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/124/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="bolshaya-azia" tvg-logo="https://picon.pp.ua/bolshaya-azia.png",Большая Азия
-http://192.168.1.112:82/channel/n5280e531/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/36/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://picon.pp.ua/v-mire-zhivotnyx.png",В мире животных HD
-http://192.168.1.112:82/channel/47913232/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/75/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="glazami-turista" tvg-logo="https://picon.pp.ua/glazami-turista.png",Глазами туриста HD
-http://192.168.1.112:82/channel/n63047bd/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/51/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="dialogi-o-rybalke" tvg-logo="https://picon.pp.ua/dialogi-o-rybalke.png",Диалоги о рыбалке
-http://192.168.1.112:82/channel/n7d4a7f5c/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/131/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="dikaya-oxota-hd" tvg-logo="https://picon.pp.ua/dikaya-oxota-hd.png",Дикая охота HD
-http://192.168.1.112:82/channel/73b047c/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/145/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="dikaya-rybalka-hd" tvg-logo="https://picon.pp.ua/dikaya-rybalka-hd.png",Дикая рыбалка HD
-http://192.168.1.112:82/channel/n298e5546/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/126/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="dikiy" tvg-logo="https://picon.pp.ua/dikiy.png",Дикий
-http://192.168.1.112:82/channel/n681c5e3/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/132/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="doktor" tvg-logo="https://picon.pp.ua/doktor.png",Доктор
-http://192.168.1.112:82/channel/369dc0ee/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/93/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="domashnie-zhivotnye" tvg-logo="https://picon.pp.ua/domashnie-zhivotnye.png",Домашние животные
-http://192.168.1.112:82/channel/4aec38a9/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/85/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="eda-hd" tvg-logo="https://picon.pp.ua/eda-hd.png",Еда HD
-http://192.168.1.112:82/channel/37b12065/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/117/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="zhivaya-planeta" tvg-logo="https://picon.pp.ua/zhivaya-planeta.png",Живая планета
-http://192.168.1.112:82/channel/48a6d8af/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/83/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="zhivaya-priroda" tvg-logo="https://picon.pp.ua/zhivaya-priroda.png",Живая природа HD
-http://192.168.1.112:82/channel/61c2ce56/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/55/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="zhivi" tvg-logo="https://picon.pp.ua/zhivi.png",Живи
-http://192.168.1.112:82/channel/n634d9a9e/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/121/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="zagorodnaya-zhizn" tvg-logo="https://picon.pp.ua/zagorodnaya-zhizn.png",Загородная жизнь
-http://192.168.1.112:82/channel/n74348638/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/82/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="istoria" tvg-logo="https://picon.pp.ua/istoria.png",История
-http://192.168.1.112:82/channel/7640c918/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/90/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="kto-est-kto" tvg-logo="https://picon.pp.ua/kto-est-kto.png",Кто есть кто
-http://192.168.1.112:82/channel/n79ed8f70/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/106/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="kuxnia-tv" tvg-logo="https://picon.pp.ua/kuhnia.png",Кухня ТВ
-http://192.168.1.112:82/channel/n6f90f164/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/118/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="mama" tvg-logo="https://picon.pp.ua/mama.png",Мама
-http://192.168.1.112:82/channel/n634afd3e/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/316/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="mir-uvlecheniy" tvg-logo="https://picon.pp.ua/mir-uvlecheniy.png",Мир увлечений
-http://192.168.1.112:82/channel/n6362c24f/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/143/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="morskoy" tvg-logo="https://picon.pp.ua/morskoy.png",Морской
-http://192.168.1.112:82/channel/44a04478/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/133/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="moya-planeta" tvg-logo="https://picon.pp.ua/moya-planeta.png",Моя Планета
-http://192.168.1.112:82/channel/n17268eb3/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/101/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="moya-planeta" tvg-logo="https://picon.pp.ua/moya-planeta.png",Моя Планета HD
-http://192.168.1.112:82/channel/nff78f51/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/109/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="muzhskoy" tvg-logo="https://picon.pp.ua/muzhskoy.png",Мужской
-http://192.168.1.112:82/channel/4c9b9489/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/134/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="nano-tv" tvg-logo="https://picon.pp.ua/nano.png",Нано
-http://192.168.1.112:82/channel/n634a88b2/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/111/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="nauka-20" tvg-logo="https://picon.pp.ua/nauka-20.png",Наука 2.0
-http://192.168.1.112:82/channel/13daa400/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/69/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="ntv-pravo" tvg-logo="https://picon.pp.ua/ntv-pravo.png",НТВ Право
-http://192.168.1.112:82/channel/46b8518e/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/40/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="ntv-style" tvg-logo="https://picon.pp.ua/ntv-style.png",НТВ Стиль
-http://192.168.1.112:82/channel/46d5887b/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/122/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="oxota-i-rybalka" tvg-logo="https://picon.pp.ua/oxota-i-rybalka.png",Охота и рыбалка
-http://192.168.1.112:82/channel/n6ee84e96/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/130/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="oxotnik-i-rybolov-hd" tvg-logo="https://picon.pp.ua/oxotnik-i-rybolov-hd.png",Охотник и рыболов HD
-http://192.168.1.112:82/channel/n73aa84ed/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/52/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="pervy-vegetariansky" tvg-logo="https://picon.pp.ua/pervy-vegetariansky.png",Первый вегетарианский
-http://192.168.1.112:82/channel/10fa2862/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/108/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="eureka-hd" tvg-logo="https://picon.pp.ua/kosmichesky.png",Первый Космический HD
-http://192.168.1.112:82/channel/22b9a2b/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/67/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="prikluchenia-hd" tvg-logo="https://picon.pp.ua/prikluchenia-hd.png",Приключения HD
-http://192.168.1.112:82/channel/n17fb197a/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/50/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="radost-moya" tvg-logo="https://picon.pp.ua/radost-moya.png",Радость моя
-http://192.168.1.112:82/channel/78e1e4/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/49/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="sovsek" tvg-logo="https://picon.pp.ua/sovsek.png",Совершенно секретно
-http://192.168.1.112:82/channel/n6d4517e3/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/107/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="soyuz" tvg-logo="https://picon.pp.ua/soyuz.png",Союз
-http://192.168.1.112:82/channel/n634880a0/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/47/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="spas" tvg-logo="https://picon.pp.ua/spas.png",Спас
-http://192.168.1.112:82/channel/n63488077/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/48/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="teatr" tvg-logo="https://picon.pp.ua/teatr.png",Театр
-http://192.168.1.112:82/channel/n5bdfe3f/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/46/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="telekafe" tvg-logo="https://picon.pp.ua/telekafe.png",Телекафе
-http://192.168.1.112:82/channel/n269a41b2/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/119/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="texno-24" tvg-logo="https://picon.pp.ua/texno-24.png",Техно 24
-http://192.168.1.112:82/channel/n15270037/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/99/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="usadba" tvg-logo="https://picon.pp.ua/usadba.png",Усадьба
-http://192.168.1.112:82/channel/n44dcb1d1/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/81/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="uspex" tvg-logo="https://picon.pp.ua/uspex.png",Успех
-http://192.168.1.112:82/channel/n5aa3b89/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/97/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="extreme-sports" tvg-logo="https://picon.pp.ua/extreme-sports.png",Extreme Sports
-http://192.168.1.112:82/channel/n3d89f213/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/260/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="fastfunbox-hd" tvg-logo="https://picon.pp.ua/fastfunbox-hd.png",Fast & FunBox
-http://192.168.1.112:82/channel/n6fcceb30/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/142/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="fightbox-hd" tvg-logo="https://picon.pp.ua/fightbox-hd.png",FightBox
-http://192.168.1.112:82/channel/5690a775/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/259/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="russky-ekstrim" tvg-logo="https://picon.pp.ua/russky-ekstrim.png",Russian Extreme HD
-http://192.168.1.112:82/channel/n504044e9/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/255/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="tvplay-sports" tvg-logo="https://picon.pp.ua/tvplay-sports.png",Viasat Sport
-http://192.168.1.112:82/channel/n2ba0eda/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/250/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="avto-plus" tvg-logo="https://picon.pp.ua/avto-plus.png",Авто Плюс
-http://192.168.1.112:82/channel/n94e48c9/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/139/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="avto24" tvg-logo="https://picon.pp.ua/avto24.png",Авто24
-http://192.168.1.112:82/channel/2f2456da/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/138/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="box-tv" tvg-logo="https://picon.pp.ua/box-tv.png",Бокс ТВ
-http://192.168.1.112:82/channel/n1a83d7e/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/258/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="konny-mir" tvg-logo="https://picon.pp.ua/konny-mir.png",Конный мир HD
-http://192.168.1.112:82/channel/5853506c/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/74/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="kxl" tvg-logo="https://picon.pp.ua/khl.png",КХЛ
-http://192.168.1.112:82/channel/n13b821ca/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/252/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="kxl-hd" tvg-logo="https://picon.pp.ua/khl-hd.png",КХЛ HD
-http://192.168.1.112:82/channel/3f5c6f26/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/251/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-tv" tvg-logo="https://picon.pp.ua/match-tv.png",Матч!
-http://192.168.1.112:82/channel/n6149112/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/230/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-tv" tvg-logo="https://picon.pp.ua/match-tv.png",Матч! HD
-http://192.168.1.112:82/channel/6ca2836e/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/229/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-arena" tvg-logo="https://picon.pp.ua/match-arena.png",Матч! Арена
-http://192.168.1.112:82/channel/2b057aa6/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/234/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-arena" tvg-logo="https://picon.pp.ua/match-arena.png",Матч! Арена HD
-http://192.168.1.112:82/channel/729c3cb6/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/233/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-boets" tvg-logo="https://picon.pp.ua/match-boec.png",Матч! Боец
-http://192.168.1.112:82/channel/n3028b050/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/257/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-igra" tvg-logo="https://picon.pp.ua/match-igra.png",Матч! Игра
-http://192.168.1.112:82/channel/n3025a9c3/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/232/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-igra" tvg-logo="https://picon.pp.ua/match-igra.png",Матч! Игра HD
-http://192.168.1.112:82/channel/111a25bf/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/231/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-premier" tvg-logo="https://picon.pp.ua/match-premiere.png",Матч! Премьер
-http://192.168.1.112:82/channel/n66f0a2a3/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/242/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-premier" tvg-logo="https://picon.pp.ua/match-premiere.png",Матч! Премьер HD
-http://192.168.1.112:82/channel/n3cfdb561/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/241/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-nash-sport" tvg-logo="https://picon.pp.ua/match-strana.png",Матч! Страна
-http://192.168.1.112:82/channel/52cd40b6/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/256/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-football1" tvg-logo="https://picon.pp.ua/match-football1.png",Матч! Футбол 1
-http://192.168.1.112:82/channel/4482178e/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/236/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-football1" tvg-logo="https://picon.pp.ua/match-football1.png",Матч! Футбол 1 HD
-http://192.168.1.112:82/channel/5ef396ce/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/235/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-football2" tvg-logo="https://picon.pp.ua/match-football2.png",Матч! Футбол 2
-http://192.168.1.112:82/channel/4482178f/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/238/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-football2" tvg-logo="https://picon.pp.ua/match-football2.png",Матч! Футбол 2 HD
-http://192.168.1.112:82/channel/5ef40b2d/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/237/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-football3" tvg-logo="https://picon.pp.ua/match-football3.png",Матч! Футбол 3
-http://192.168.1.112:82/channel/44821790/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/240/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-football3" tvg-logo="https://picon.pp.ua/match-football3.png",Матч! Футбол 3 HD
-http://192.168.1.112:82/channel/5ef47f8c/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/239/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="start" tvg-logo="https://picon.pp.ua/start.png",Старт
-http://192.168.1.112:82/channel/n5c62d29/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/205/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="amedia-hit" tvg-logo="https://picon.pp.ua/amedia-hit.png",A HOME OF HBO 1
-http://192.168.1.112:82/channel/355c3165/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/173/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="amedia-hit" tvg-logo="https://picon.pp.ua/amedia-hit.png",A HOME OF HBO 1 HD
-http://192.168.1.112:82/channel/n6c676669/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/329/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="amedia-premium" tvg-logo="https://picon.pp.ua/amedia-premium.png",A HOME OF HBO 2 HD
-http://192.168.1.112:82/channel/n6c66f20a/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/171/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="amedia1" tvg-logo="https://picon.pp.ua/amedia1.png",A1
-http://192.168.1.112:82/channel/n196984b6/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/174/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="amedia2" tvg-logo="https://picon.pp.ua/amedia2.png",A2
-http://192.168.1.112:82/channel/n196984b5/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/176/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="amedia2" tvg-logo="https://picon.pp.ua/amedia2.png",A2 HD
-http://192.168.1.112:82/channel/n3e49c20f/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/175/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="bollywood-hd" tvg-logo="https://picon.pp.ua/bollywood-hd.png",Bollywood HD
-http://192.168.1.112:82/channel/362bb91d/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/186/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="cinema-ru" tvg-logo="https://picon.pp.ua/cinema.png",Cinema
-http://192.168.1.112:82/channel/7ba6254b/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/200/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="cinema-ru" tvg-logo="https://picon.pp.ua/cinema.png",Cinema HD
-http://192.168.1.112:82/channel/2b8e53f1/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/528/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="filmbox-ru" tvg-logo="https://picon.pp.ua/filmbox-ru.png",FilmBox
-http://192.168.1.112:82/channel/n6847f573/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/225/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="filmbox-arthouse" tvg-logo="https://picon.pp.ua/filmbox-arthouse.png",FilmBox ArtHouse
-http://192.168.1.112:82/channel/43842ad0/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/226/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="hollywood" tvg-logo="https://picon.pp.ua/hollywood.png",Hollywood
-http://192.168.1.112:82/channel/230549a5/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/185/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="hollywood-hd" tvg-logo="https://picon.pp.ua/hollywood-hd.png",Hollywood HD
-http://192.168.1.112:82/channel/64559957/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/184/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="shot-tv" tvg-logo="https://picon.pp.ua/shot-tv.png",Shot TV
-http://192.168.1.112:82/channel/45e1264e/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/207/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="sony-scifi" tvg-logo="https://picon.pp.ua/sony-scifi.png",Sony Sci-Fi
-http://192.168.1.112:82/channel/n568061ca/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/208/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="sony-turbo" tvg-logo="https://picon.pp.ua/sony-turbo.png",Sony Turbo
-http://192.168.1.112:82/channel/n5d8a9ce1/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/209/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="sony-tv" tvg-logo="https://picon.pp.ua/sony.png",Sony ТВ
-http://192.168.1.112:82/channel/51c7baaf/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/170/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="sony-tv" tvg-logo="https://picon.pp.ua/sony.png",Sony ТВ HD
-http://192.168.1.112:82/channel/n2649ebf3/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/188/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="tvxxi" tvg-logo="https://picon.pp.ua/tvxxi.png",TV XXI
-http://192.168.1.112:82/channel/n6886df1b/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/202/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="tv1000" tvg-logo="https://picon.pp.ua/tv1000.png",TV1000
-http://192.168.1.112:82/channel/n687fbfe5/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/161/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="tv1000-action" tvg-logo="https://picon.pp.ua/tv1000action.png",TV1000 Action
-http://192.168.1.112:82/channel/49d34dfb/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/163/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="tv1000-russkoe-kino" tvg-logo="https://picon.pp.ua/tv1000ruskino.png",TV1000 Русское кино
-http://192.168.1.112:82/channel/n7f634eea/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/165/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="vip-comedy" tvg-logo="https://picon.pp.ua/vip-comedy.png",ViP Comedy HD
-http://192.168.1.112:82/channel/345f0bc6/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/151/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="vip-megahit" tvg-logo="https://picon.pp.ua/vip-megahit.png",ViP Megahit HD
-http://192.168.1.112:82/channel/n2513f3e8/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/149/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="vip-premiere" tvg-logo="https://picon.pp.ua/vip-premiere.png",ViP Premiere HD
-http://192.168.1.112:82/channel/n72e703da/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/150/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="zee-tv" tvg-logo="https://picon.pp.ua/zee-tv.png",Zee-TV
-http://192.168.1.112:82/channel/n5d57af11/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/224/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="domkino" tvg-logo="https://picon.pp.ua/domkino.png",Дом Кино
-http://192.168.1.112:82/channel/n30b22839/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/203/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="domkino-premium" tvg-logo="https://picon.pp.ua/domkino-premium.png",Дом кино Премиум HD
-http://192.168.1.112:82/channel/n18cc1c94/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/168/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="dorama" tvg-logo="https://picon.pp.ua/dorama.png",Дорама
-http://192.168.1.112:82/channel/36a03748/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/228/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="evrokino" tvg-logo="https://picon.pp.ua/eurokino.png",Еврокино
-http://192.168.1.112:82/channel/n2b50eec/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/201/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="illuzion-plus" tvg-logo="https://picon.pp.ua/illuzion-plus.png",Иллюзион +
-http://192.168.1.112:82/channel/2b76f4fb/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/204/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="indiyskoe-kino" tvg-logo="https://picon.pp.ua/indijskoe-kino.png",Индийское кино
-http://192.168.1.112:82/channel/n7ad90ec7/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/199/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kineko" tvg-logo="https://picon.pp.ua/kineko.png",Кинеко
-http://192.168.1.112:82/channel/40877374/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/178/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kineko" tvg-logo="https://picon.pp.ua/kineko.png",Кинеко HD
-http://192.168.1.112:82/channel/5294e928/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/177/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kino-tv" tvg-logo="https://picon.pp.ua/kino-tv.png",Кино ТВ HD
-http://192.168.1.112:82/channel/n236033bb/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/154/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kinokomedia" tvg-logo="https://picon.pp.ua/kinokomedia.png",Кинокомедия
-http://192.168.1.112:82/channel/n1c556eeb/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/198/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kinomiks" tvg-logo="https://picon.pp.ua/kinomiks.png",Киномикс
-http://192.168.1.112:82/channel/3cf8937c/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/159/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kinomiks" tvg-logo="https://picon.pp.ua/kinomiks.png",Киномикс HD
-http://192.168.1.112:82/channel/43136c20/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/330/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kinopremiera-hd" tvg-logo="https://picon.pp.ua/kinopremiera.png",Кинопремьера HD
-http://192.168.1.112:82/channel/n78fefdbe/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/153/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kinosat" tvg-logo="https://picon.pp.ua/kinosat.png",Киносат
-http://192.168.1.112:82/channel/n2f94d0c6/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/358/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kinosvidanie" tvg-logo="https://picon.pp.ua/kinosvidanie.png",Киносвидание
-http://192.168.1.112:82/channel/n18de32b0/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/197/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kinosemiya" tvg-logo="https://picon.pp.ua/kinosemia.png",Киносемья
-http://192.168.1.112:82/channel/625f0192/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/193/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kinoseria" tvg-logo="https://picon.pp.ua/kinoseria.png",Киносерия
-http://192.168.1.112:82/channel/625f0e2a/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/194/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kinoxit" tvg-logo="https://picon.pp.ua/kinoxit.png",Кинохит
-http://192.168.1.112:82/channel/n2f94c0ca/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/192/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="komedijnoe-hd" tvg-logo="https://picon.pp.ua/komedijnoe.png",Комедийное HD
-http://192.168.1.112:82/channel/2c8921a6/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/148/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="lubimoe-kino" tvg-logo="https://picon.pp.ua/lubimoe-kino.png",Любимое кино
-http://192.168.1.112:82/channel/241e420/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/212/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="mir-seriala" tvg-logo="https://picon.pp.ua/mir-seriala.png",Мир сериала
-http://192.168.1.112:82/channel/7c543303/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/222/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="doverie" tvg-logo="https://picon.pp.ua/doverie.png",Москва. Доверие
-http://192.168.1.112:82/channel/n37a7e3d5/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/31/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="muzhskoe-kino" tvg-logo="https://picon.pp.ua/muzhskoe-kino.png",Мужское кино
-http://192.168.1.112:82/channel/n2fcb61e6/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/157/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="muzhskoe-kino" tvg-logo="https://picon.pp.ua/muzhskoe-kino.png",Мужское кино HD
-http://192.168.1.112:82/channel/1b2af4c2/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/92/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="nashe-lubimoe" tvg-logo="https://picon.pp.ua/nashe-lubimoe.png",Наше любимое HD
-http://192.168.1.112:82/channel/df8d7e9/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/189/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="nashe-novoe-kino" tvg-logo="https://picon.pp.ua/nashe-novoe-kino.png",Наше новое кино
-http://192.168.1.112:82/channel/11a6cb9d/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/195/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="nostalgia" tvg-logo="https://picon.pp.ua/nostalgia.png",Ностальгия
-http://192.168.1.112:82/channel/n69912d5b/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/39/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="nst" tvg-logo="https://picon.pp.ua/nst.png",НСТ
-http://192.168.1.112:82/channel/n13b816fc/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/211/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="ntv-serial" tvg-logo="https://picon.pp.ua/ntv-serial.png",НТВ Сериал
-http://192.168.1.112:82/channel/n6cd8121c/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/221/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="ntv-xit" tvg-logo="https://picon.pp.ua/ntv-xit.png",НТВ Хит
-http://192.168.1.112:82/channel/4555c962/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/220/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="ostrosiuzhetnoe-hd" tvg-logo="https://picon.pp.ua/ostrosiuzhetnoe-hd.png",Остросюжетное HD
-http://192.168.1.112:82/channel/n6acbdde5/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/155/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="pobeda" tvg-logo="https://picon.pp.ua/pobeda.png",Победа
-http://192.168.1.112:82/channel/495ec659/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/213/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="premialnoe-hd" tvg-logo="https://picon.pp.ua/premialnoe.png",Премиальное HD
-http://192.168.1.112:82/channel/n5fbe05cd/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/187/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="rodnoe-kino" tvg-logo="https://picon.pp.ua/rodnoe-kino.png",Родное кино
-http://192.168.1.112:82/channel/6cd6327/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/196/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="russkaya-komedia" tvg-logo="https://picon.pp.ua/russkaya-komedia.png",Русская комедия
-http://192.168.1.112:82/channel/7f63adca/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/219/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="russky-bestseller" tvg-logo="https://picon.pp.ua/russky-bestseller.png",Русский бестселлер
-http://192.168.1.112:82/channel/3bb70fa6/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/217/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="russky-detektiv" tvg-logo="https://picon.pp.ua/russky-detektiv.png",Русский детектив
-http://192.168.1.112:82/channel/n2b3744c8/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/218/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="russky-illuzion" tvg-logo="https://picon.pp.ua/russky-illuzion.png",Русский иллюзион
-http://192.168.1.112:82/channel/n58e05068/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/215/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="russky-roman" tvg-logo="https://picon.pp.ua/russky-roman.png",Русский роман
-http://192.168.1.112:82/channel/n4517ecb7/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/216/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="sapfir" tvg-logo="https://picon.pp.ua/sapfir.png",Сапфир
-http://192.168.1.112:82/channel/4c09c496/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/180/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="shokiruyushchee-hd" tvg-logo="https://picon.pp.ua/shokiruyushchee.png",Шокирующее HD
-http://192.168.1.112:82/channel/n40794390/index.m3u8?q=1695504436934
+http://tv.leveltele.com:2222/147/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kamedi" tvg-logo="https://picon.pp.ua/kamedi.png",Камеди HD
-http://192.168.1.112:82/channel/n5a89c7ba/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=69f02544ef5a6029b4ac7b34a7af5616437c64e0&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-action" tvg-logo="https://picon.pp.ua/bcu-action.png",BCU Action HD
-http://192.168.1.112:82/channel/n268a6449/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=3c679a39456838ea8abc77b288c95df2b7a3f45d&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-catastrophe" tvg-logo="",BCU Catastrophe HD
-http://192.168.1.112:82/channel/n5064f9f9/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=07d24566226c5851b9c3a3235e3451854d6baeac&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-cinema" tvg-logo="",BCU Cinema HD
-http://192.168.1.112:82/channel/2ceaa91c/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=ed699504c5010cab9046530306960e998a92f5e6&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-cinemaplus" tvg-logo="",BCU Cinema+ HD
-http://192.168.1.112:82/channel/706ee511/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=4d6232def7e751c47eb44a017021055e8362b54a&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-comedy" tvg-logo="",BCU Comedy HD
-http://192.168.1.112:82/channel/66d79074/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=5c878afe25deb6a7f1cfe198df39d5a073af4134&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-cosmo" tvg-logo="",BCU Cosmo HD
-http://192.168.1.112:82/channel/3f8f3062/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=41e81ad4d12bf52b23e58c4c3fda62bc8ba1bbb5&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-criminal" tvg-logo="",BCU Criminal HD
-http://192.168.1.112:82/channel/n2c990dd6/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=ddb42884acd341255390cda62387b5a42d8c2180&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-fantastic" tvg-logo="",BCU Fantastic HD
-http://192.168.1.112:82/channel/n757feef0/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=2d04b4c1391b16a4995e7b7fe74833d6c9d850ac&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-filmystic" tvg-logo="",BCU Filmystic HD
-http://192.168.1.112:82/channel/n7b00f45/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=2814982beb7bb4bd74ad2f8c721ba4bcf7e93a04&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-history" tvg-logo="",BCU History HD
-http://192.168.1.112:82/channel/5b3e2997/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=21fcd8e73936b64435d07832c2d8382609f48d6d&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-kids-4k" tvg-logo="",BCU Kids 4K
-http://192.168.1.112:82/channel/n2801b205/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=c3aa52aab6bd48c3b79189410fbf716f2e4dd293&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-kids" tvg-logo="",BCU Kids HD
-http://192.168.1.112:82/channel/n2801afa0/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=535b288408b7c671bb1d5c292dd64beadf556ab9&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-kids-plus" tvg-logo="",BCU Kids+ HD
-http://192.168.1.112:82/channel/27d0264d/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=e2db1c6451aeff66756ae166cf507a0b2743b69a&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-kinorating" tvg-logo="",BCU Kinorating HD
-http://192.168.1.112:82/channel/71a011b1/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=57401c50a256f68da4bc9ebe9965e2f12a9d20e2&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-media" tvg-logo="",BCU Kinozakaz HD
-http://192.168.1.112:82/channel/n302cf6f3/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=9cd5a5ee3d83b36cd5dd36dbc912e37531df482b&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-marvel" tvg-logo="",BCU Marvel HD
-http://192.168.1.112:82/channel/n5742d432/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=bbb0e5dbb5f0059de7b9ffc0cbcd1f9728449fd7&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-premiere" tvg-logo="",BCU Premiere HD
-http://192.168.1.112:82/channel/3830d54/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=52b5bbf1d3a9640f8a186e848f021bfc3daf1154&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-premiere-4k" tvg-logo="",BCU Premiere Ultra 4K
-http://192.168.1.112:82/channel/789e7e03/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=30b1dba65edffa2c0c8ade75257508b00d8a61ea&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-reality" tvg-logo="",BCU Reality HD
-http://192.168.1.112:82/channel/n6a1d0da5/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=22da1ac893c3daf4035261c84e828c8020648187&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-ruserial" tvg-logo="",BCU Ruserial HD
-http://192.168.1.112:82/channel/n372377ea/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=49552fcef0397a9f48f7520247ee414a085f61e2&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-russian" tvg-logo="",BCU Russian HD
-http://192.168.1.112:82/channel/n66c615c8/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=5e38456d774827e7312b7eabdde388532a3dfec9&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-stars" tvg-logo="",BCU Stars HD
-http://192.168.1.112:82/channel/n584dcd96/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=05fe94b726e99b1dd548013bd281980f9f27b617&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-survival" tvg-logo="",BCU Survival HD
-http://192.168.1.112:82/channel/n16784e91/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=7222fcd5c4efe1f4beee535acac83fc195bc51d3&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-trumotion" tvg-logo="",BCU TruMotion HD
-http://192.168.1.112:82/channel/n3e38e882/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=1d316bb0fd6a7741ac8c9a8972b6710e71d84791&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-ultra4k" tvg-logo="",BCU Ultra 4K
-http://192.168.1.112:82/channel/nf596b26/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=6c82a952053419ef358907fc2fc52151626be0b7&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-vhs" tvg-logo="",BCU VHS HD
-http://192.168.1.112:82/channel/n21eb6976/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=5752b846dab618e12a0a1541ad6573a81ae1265d&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-kinozal-prem-1" tvg-logo="",BCU Кинозал Premiere 1 HD
-http://192.168.1.112:82/channel/n59d0481a/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=122b81e6c37b49a37c3b1984efaf5626371d5df5&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-kinozal-prem-2" tvg-logo="",BCU Кинозал Premiere 2 HD
-http://192.168.1.112:82/channel/n59cfd3bb/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=d488e696aba7b6a2d3a8977d762bcf4eee1bfd07&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-kinozal-prem-3" tvg-logo="",BCU Кинозал Premiere 3 HD
-http://192.168.1.112:82/channel/n59cf5f5c/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=ffa797e65b8307a13b2805284e28295884c7e7e1&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-sssr" tvg-logo="",BCU Кинозал СССР HD
-http://192.168.1.112:82/channel/db619f1/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=59623cb797c031a5aa4922eb219851547cb346b0&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-multserial" tvg-logo="",BCU Мультсериал
-http://192.168.1.112:82/channel/n260e130e/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=8bff31504247530c1be06395c11c38ecd1895964&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-romantic" tvg-logo="",BCU Романтика HD
-http://192.168.1.112:82/channel/n7660ef6c/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=62f68471bab075eb96e5db4559e7994427db111b&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
 #EXTINF:0 group-title="Фильмы" tvg-id="bcu-svaty" tvg-logo="",BCU Сваты HD
-http://192.168.1.112:82/channel/n70c5695d/index.m3u8?q=1695504436934
+http://185.182.82.61:6878/ace/manifest.m3u8?id=5cea434c891d27aa66d87d3b23d91ab74c1c72f8&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=rus
