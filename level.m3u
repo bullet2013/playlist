@@ -5,6 +5,8 @@ http://tv.leveltele.com:2222/311/index.m3u8
 http://tv.leveltele.com:2222/313/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="gulli-girl" tvg-logo="https://epgx.site/p/gulligirl.png",Gulli Girl
 http://tv.leveltele.com:2222/300/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="nickelodeon" tvg-logo="https://epgx.site/p/nickelodeon.png",Nickelodeon
+http://tv.leveltele.com:2222/300/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="tiji" tvg-logo="https://epgx.site/p/tiji.png",TiJi
 http://tv.leveltele.com:2222/299/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="v-gostiax-u-skazki" tvg-logo="https://epgx.site/p/v-gostiax-u-skazki.png",В гостях у сказки
