@@ -159,6 +159,8 @@ http://tv.leveltele.com:2222/33/index.m3u8
 http://tv.leveltele.com:2222/44/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Юниoн
 http://tv.leveltele.com:2222/351/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="stb" tvg-logo="https://epgx.site/p/stb.png",СТБ
+https://a5.pokaz.me/SCiv4lixU0K1MwXbFnHnyA/101/1725749761/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="365-dnej" tvg-logo="https://epgx.site/p/365-dnej.png",365 дней ТВ
 http://tv.leveltele.com:2222/89/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="da-vinci" tvg-logo="https://epgx.site/p/da-vinci.png",Da Vinci Learning
