@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=iptvx.one
+#EXTM3U description="Medium" size="Medium" background="#11609e"
 #EXTINF:0 group-title="Детские" tvg-id="2na2" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/2x2.png",2x2
 http://192.168.1.112/channel/n13c7418e/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Детские" tvg-id="ani" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/ani.png",Ani
@@ -31,24 +31,20 @@ http://192.168.1.112/channel/1cb1ce47/index.m3u8?q=1729706469740
 http://192.168.1.112/channel/37743975/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Детские" tvg-id="detsky" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/unikum.png",Уникум
 http://192.168.1.112/channel/5027548f/index.m3u8?q=1729706469740
-#EXTINF:0 group-title="Музыка" tvg-id="bridge-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/bridge-tv.png",Bridge TV
-http://192.168.1.112/channel/33adbddf/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Музыка" tvg-id="bridge-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/bridge-hd.png",Bridge HD
 http://192.168.1.112/channel/33adbc59/index.m3u8?q=1729706469740
+#EXTINF:0 group-title="Музыка" tvg-id="bridge-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/bridge-tv.png",Bridge TV
+http://192.168.1.112/channel/33adbddf/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Музыка" tvg-id="bridge-tv-ruxit" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/bridge-tv-ruxit.png",Bridge TV Русский хит
 http://192.168.1.112/channel/7254c386/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Музыка" tvg-id="europa-plus-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/europa-plus-tv.png",Europa Plus TV
 http://192.168.1.112/channel/n34c78580/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Музыка" tvg-id="mezzo" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/mezzo.png",Mezzo
 http://192.168.1.112/channel/n3d882103/index.m3u8?q=1729706469740
+#EXTINF:0 group-title="Музыка" tvg-id="mezzo-live-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/mezzo-live-hd.png",Mezzo Live HD
+http://192.168.1.112/channel/n5a4b2193/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Музыка" tvg-id="ru-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/ru-tv.png",RU.TV
 http://192.168.1.112/channel/n3d4a136d/index.m3u8?q=1729706469740
-#EXTINF:0 group-title="Музыка" tvg-id="c-music-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/c-music-tv.png",Stingray CMusic
-http://192.168.1.112/channel/73564bdf/index.m3u8?q=1729706469740
-#EXTINF:0 group-title="Музыка" tvg-id="iconcerts" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/iconcerts.png",Stingray iConcerts
-http://192.168.1.112/channel/n6b7b9b47/index.m3u8?q=1729706469740
-#EXTINF:0 group-title="Музыка" tvg-id="vh1-classic" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/vh1-classic.png",VH1 Classic
-http://192.168.1.112/channel/25731717/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Музыка" tvg-id="vostok-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/vostok-tv.png",Восток ТВ
 http://192.168.1.112/channel/9b7732d/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Музыка" tvg-id="zhara" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/zhara.png",Жара
@@ -65,8 +61,6 @@ http://192.168.1.112/channel/n5bd94bd4/index.m3u8?q=1729706469740
 http://192.168.1.112/channel/3b6e9f72/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Музыка" tvg-id="shanson-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/shanson-tv.png",Шансон-TB
 http://192.168.1.112/channel/43fbd796/index.m3u8?q=1729706469740
-#EXTINF:0 group-title="Новостные" tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/rossia-24.png",Россия 24
-http://192.168.1.112/channel/23752d73/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Новостные" tvg-id="belarus24" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/belarus24.png",Беларусь-24
 http://192.168.1.112/channel/3a198c4e/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Новостные" tvg-id="vremia" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/vremia.png",Время
@@ -75,32 +69,18 @@ http://192.168.1.112/channel/n69a6420/index.m3u8?q=1729706469740
 http://192.168.1.112/channel/250e4754/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Новостные" tvg-id="mir-24" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/mir24.png",Мир 24
 http://192.168.1.112/channel/43e2adf8/index.m3u8?q=1729706469740
-#EXTINF:0 group-title="Новостные" tvg-id="mir-25" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/mir24.png",Мир 24 HD
-http://192.168.1.112/channel/n180c8fdc/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Новостные" tvg-id="moskva-24" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/moskva-24.png",Москва-24
 http://192.168.1.112/channel/n39f0eea4/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Новостные" tvg-id="rbk" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/rbk.png",РБК
 http://192.168.1.112/channel/n13b80db1/index.m3u8?q=1729706469740
+#EXTINF:0 group-title="Новостные" tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/rossia-24.png",Россия 24
+http://192.168.1.112/channel/23752d73/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Общие" tvg-id="360-podmoskovie" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/360-podmoskovie.png",360° Подмосковье
 http://192.168.1.112/channel/n5d90e9f6/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Общие" tvg-id="360-podmoskovie" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/360-podmoskovie.png",360° Подмосковье HD
 http://192.168.1.112/channel/n62c9c92e/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Общие" tvg-id="8kanal-ru" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/8kanal-ru.png",8 канал
 http://192.168.1.112/channel/6df19f30/index.m3u8?q=1729706469740
-#EXTINF:0 group-title="Общие" tvg-id="ntv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/ntv-white.png",НТВ
-http://192.168.1.112/channel/n13b816ed/index.m3u8?q=1729706469740
-#EXTINF:0 group-title="Общие" tvg-id="ntv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/ntv-white.png",НТВ HD
-http://192.168.1.112/channel/444c9b29/index.m3u8?q=1729706469740
-#EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Оплот HD
-http://192.168.1.112/channel/4b521258/index.m3u8?q=1729706469740
-#EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Оплот 2 TV
-http://192.168.1.112/channel/n40f3a074/index.m3u8?q=1729706469740
-#EXTINF:0 group-title="Общие" tvg-id="rentv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/rentv.png",Рен ТВ
-http://192.168.1.112/channel/4a8aeac2/index.m3u8?q=1729706469740
-#EXTINF:0 group-title="Общие" tvg-id="rossia1" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/rossia1.png",Россия 1
-http://192.168.1.112/channel/nf5f5120/index.m3u8?q=1729706469740
-#EXTINF:0 group-title="Общие" tvg-id="rossia1" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/rossia1.png",Россия 1 HD
-http://192.168.1.112/channel/1adee63c/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Общие" tvg-id="domashny" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/domashny.png",Домашний
 http://192.168.1.112/channel/8a24f0e/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Общие" tvg-id="zvezda" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/zvezda.png",Звезда
@@ -113,18 +93,32 @@ http://192.168.1.112/channel/n634bba6c/index.m3u8?q=1729706469740
 http://192.168.1.112/channel/n13b817d6/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Новороссия ТВ
 http://192.168.1.112/channel/n320e8eac/index.m3u8?q=1729706469740
+#EXTINF:0 group-title="Общие" tvg-id="ntv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/ntv-white.png",НТВ
+http://192.168.1.112/channel/n13b816ed/index.m3u8?q=1729706469740
+#EXTINF:0 group-title="Общие" tvg-id="ntv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/ntv-white.png",НТВ HD
+http://192.168.1.112/channel/444c9b29/index.m3u8?q=1729706469740
+#EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Оплот 2 TV
+http://192.168.1.112/channel/n40f3a074/index.m3u8?q=1729706469740
+#EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Оплот HD
+http://192.168.1.112/channel/4b521258/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Общие" tvg-id="otr" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/otr.png",ОТР
 http://192.168.1.112/channel/n13b8131e/index.m3u8?q=1729706469740
-#EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Первый Республиканский
-http://192.168.1.112/channel/n4c959e6d/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Общие" tvg-id="pervy" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/pervyj.png",Первый канал
 http://192.168.1.112/channel/n4257d01e/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Общие" tvg-id="pervy" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/pervyj.png",Первый канал HD
 http://192.168.1.112/channel/n68e35206/index.m3u8?q=1729706469740
+#EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Первый Республиканский
+http://192.168.1.112/channel/n4c959e6d/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Общие" tvg-id="piatnica" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/pyatnica.png",Пятница
 http://192.168.1.112/channel/6fafbd/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Общие" tvg-id="5kanal-ru" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/5kanal-ru.png",Пятый канал
 http://192.168.1.112/channel/n5117c308/index.m3u8?q=1729706469740
+#EXTINF:0 group-title="Общие" tvg-id="rentv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/rentv.png",Рен ТВ
+http://192.168.1.112/channel/4a8aeac2/index.m3u8?q=1729706469740
+#EXTINF:0 group-title="Общие" tvg-id="rossia1" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/rossia1.png",Россия 1
+http://192.168.1.112/channel/nf5f5120/index.m3u8?q=1729706469740
+#EXTINF:0 group-title="Общие" tvg-id="rossia1" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/rossia1.png",Россия 1 HD
+http://192.168.1.112/channel/1adee63c/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Общие" tvg-id="kultura" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kultura.png",Россия К
 http://192.168.1.112/channel/nf5f4d37/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Общие" tvg-id="sarafan" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/sarafan.png",Сарафан
@@ -219,8 +213,6 @@ http://192.168.1.112/channel/n681c5e3/index.m3u8?q=1729706469740
 http://192.168.1.112/channel/369dc0ee/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Познавательные" tvg-id="domashnie-zhivotnye" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/domashnie-zhivotnye.png",Домашние животные
 http://192.168.1.112/channel/4aec38a9/index.m3u8?q=1729706469740
-#EXTINF:0 group-title="Познавательные" tvg-id="eda-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/eda-hd.png",Еда HD
-http://192.168.1.112/channel/37b12065/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Познавательные" tvg-id="zhivaya-planeta" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/zhivaya-planeta.png",Живая планета
 http://192.168.1.112/channel/48a6d8af/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Познавательные" tvg-id="zhivaya-priroda" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/zhivaya-priroda.png",Живая природа HD
@@ -289,8 +281,6 @@ http://192.168.1.112/channel/n3d89f213/index.m3u8?q=1729706469740
 http://192.168.1.112/channel/n6fcceb30/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Спорт" tvg-id="fightbox-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/fightbox-hd.png",FightBox
 http://192.168.1.112/channel/5690a775/index.m3u8?q=1729706469740
-#EXTINF:0 group-title="Спорт" tvg-id="russky-ekstrim" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/russky-ekstrim.png",Russian Extreme HD
-http://192.168.1.112/channel/n504044e9/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Спорт" tvg-id="tvplay-sports" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/tvplay-sports.png",Viasat Sport
 http://192.168.1.112/channel/n2ba0eda/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Спорт" tvg-id="avto-plus" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/avto-plus.png",Авто Плюс
@@ -299,8 +289,6 @@ http://192.168.1.112/channel/n94e48c9/index.m3u8?q=1729706469740
 http://192.168.1.112/channel/2f2456da/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Спорт" tvg-id="box-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/box-tv.png",Бокс ТВ
 http://192.168.1.112/channel/n1a83d7e/index.m3u8?q=1729706469740
-#EXTINF:0 group-title="Спорт" tvg-id="konny-mir" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/konny-mir.png",Конный мир HD
-http://192.168.1.112/channel/5853506c/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Спорт" tvg-id="kxl" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/khl.png",КХЛ
 http://192.168.1.112/channel/n13b821ca/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Спорт" tvg-id="kxl-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/khl-hd.png",КХЛ HD
@@ -413,8 +401,6 @@ http://192.168.1.112/channel/n236033bb/index.m3u8?q=1729706469740
 http://192.168.1.112/channel/n1c556eeb/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Фильмы" tvg-id="kinomiks" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinomiks.png",Киномикс
 http://192.168.1.112/channel/3cf8937c/index.m3u8?q=1729706469740
-#EXTINF:0 group-title="Фильмы" tvg-id="kinomiks" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinomiks.png",Киномикс HD
-http://192.168.1.112/channel/43136c20/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Фильмы" tvg-id="kinopremiera-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinopremiera.png",Кинопремьера HD
 http://192.168.1.112/channel/n78fefdbe/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Фильмы" tvg-id="kinosat" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinosat.png",Киносат
@@ -425,6 +411,8 @@ http://192.168.1.112/channel/n18de32b0/index.m3u8?q=1729706469740
 http://192.168.1.112/channel/625f0192/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Фильмы" tvg-id="kinoseria" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinoseria.png",Киносерия
 http://192.168.1.112/channel/625f0e2a/index.m3u8?q=1729706469740
+#EXTINF:0 group-title="Фильмы" tvg-id="kinouzhas" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinouzhas.png",Киноужас
+http://192.168.1.112/channel/3cfbb95d/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Фильмы" tvg-id="kinoxit" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinoxit.png",Кинохит
 http://192.168.1.112/channel/n2f94c0ca/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Фильмы" tvg-id="komedijnoe-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/komedijnoe.png",Комедийное HD
@@ -437,10 +425,6 @@ http://192.168.1.112/channel/7c543303/index.m3u8?q=1729706469740
 http://192.168.1.112/channel/n37a7e3d5/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Фильмы" tvg-id="muzhskoe-kino" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/muzhskoe-kino.png",Мужское кино
 http://192.168.1.112/channel/n2fcb61e6/index.m3u8?q=1729706469740
-#EXTINF:0 group-title="Фильмы" tvg-id="muzhskoe-kino" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/muzhskoe-kino.png",Мужское кино HD
-http://192.168.1.112/channel/1b2af4c2/index.m3u8?q=1729706469740
-#EXTINF:0 group-title="Фильмы" tvg-id="nashe-lubimoe" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/nashe-lubimoe.png",Наше любимое HD
-http://192.168.1.112/channel/df8d7e9/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Фильмы" tvg-id="nashe-novoe-kino" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/nashe-novoe-kino.png",Наше новое кино
 http://192.168.1.112/channel/11a6cb9d/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Фильмы" tvg-id="nostalgia" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/nostalgia.png",Ностальгия
@@ -471,5 +455,3 @@ http://192.168.1.112/channel/n58e05068/index.m3u8?q=1729706469740
 http://192.168.1.112/channel/n4517ecb7/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Фильмы" tvg-id="sapfir" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/sapfir.png",Сапфир
 http://192.168.1.112/channel/4c09c496/index.m3u8?q=1729706469740
-#EXTINF:0 group-title="Фильмы" tvg-id="shokiruyushchee-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/shokiruyushchee.png",Шокирующее HD
-http://192.168.1.112/channel/n40794390/index.m3u8?q=1729706469740
