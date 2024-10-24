@@ -415,6 +415,8 @@ http://tv.leveltele.com:2222/194/index.m3u8
 http://tv.leveltele.com:2222/500/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kinoxit" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinoxit.png",Кинохит
 http://tv.leveltele.com:2222/192/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="komedijnoe-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/komedijnoe.png",Комедийное HD
+http://tv.leveltele.com:2222/148/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="lubimoe-kino" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/lubimoe-kino.png",Любимое кино
 http://tv.leveltele.com:2222/212/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="mir-seriala" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/mir-seriala.png",Мир сериала
