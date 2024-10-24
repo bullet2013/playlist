@@ -41,10 +41,10 @@ http://tv.leveltele.com:2222/283/index.m3u8
 http://tv.leveltele.com:2222/272/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="mezzo" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/mezzo.png",Mezzo
 http://tv.leveltele.com:2222/288/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-id="mezzo-live-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/mezzo-live-hd.png",Mezzo Live HD
+http://tv.leveltele.com:2222/287/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="ru-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/ru-tv.png",RU.TV
 http://tv.leveltele.com:2222/276/index.m3u8
-#EXTINF:0 group-title="Музыка" tvg-id="iconcerts" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/iconcerts.png",Stingray iConcerts
-http://tv.leveltele.com:2222/287/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="vostok-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/vostok-tv.png",Восток ТВ
 http://tv.leveltele.com:2222/289/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="zhara" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/zhara.png",Жара
