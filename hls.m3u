@@ -1,4 +1,4 @@
-#EXTM3U description="Medium" size="Medium" background="#11609e"
+#EXTM3U url-tvg=iptvx.one
 #EXTINF:0 group-title="Детские" tvg-id="2na2" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/2x2.png",2x2
 http://192.168.1.112/channel/n13c7418e/index.m3u8?q=1729706469740
 #EXTINF:0 group-title="Детские" tvg-id="ani" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/ani.png",Ani
