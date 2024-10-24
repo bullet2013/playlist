@@ -199,6 +199,8 @@ http://tv.leveltele.com:2222/124/index.m3u8
 http://tv.leveltele.com:2222/36/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/v-mire-zhivotnyx.png",В мире животных HD
 http://tv.leveltele.com:2222/75/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="glazami-turista" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/glazami-turista.png",Глазами туриста HD
+http://tv.leveltele.com:2222/51/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="dialogi-o-rybalke" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/dialogi-o-rybalke.png",Диалоги о рыбалке
 http://tv.leveltele.com:2222/131/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="dikaya-oxota-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/dikaya-oxota-hd.png",Дикая охота HD
@@ -213,6 +215,8 @@ http://tv.leveltele.com:2222/93/index.m3u8
 http://tv.leveltele.com:2222/85/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="zhivaya-planeta" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/zhivaya-planeta.png",Живая планета
 http://tv.leveltele.com:2222/83/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zhivaya-priroda" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/zhivaya-priroda.png",Живая природа HD
+http://tv.leveltele.com:2222/55/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="zhivi" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/zhivi.png",Живи
 http://tv.leveltele.com:2222/121/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="zagorodnaya-zhizn" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/zagorodnaya-zhizn.png",Загородная жизнь
@@ -407,6 +411,8 @@ http://tv.leveltele.com:2222/197/index.m3u8
 http://tv.leveltele.com:2222/193/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kinoseria" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinoseria.png",Киносерия
 http://tv.leveltele.com:2222/194/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="kinouzhas" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinouzhas.png",Киноужас
+http://tv.leveltele.com:2222/500/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kinoxit" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinoxit.png",Кинохит
 http://tv.leveltele.com:2222/192/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="lubimoe-kino" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/lubimoe-kino.png",Любимое кино
