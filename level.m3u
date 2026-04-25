@@ -351,6 +351,8 @@ http://tv.leveltele.com:2222/149/index.m3u8
 http://tv.leveltele.com:2222/150/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="zee-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/zee-tv.png",Zee-TV
 http://tv.leveltele.com:2222/224/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="denpobedy" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/denpobedy.png",День Победы HD
+http://tv.leveltele.com:2222/527/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="domkino" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/domkino.png",Дом Кино
 http://tv.leveltele.com:2222/203/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="domkino-premium" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/domkino-premium.png",Дом кино Премиум HD
