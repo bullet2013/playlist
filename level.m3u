@@ -253,6 +253,8 @@ http://tv.leveltele.com:2222/99/index.m3u8
 http://tv.leveltele.com:2222/81/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="extreme-sports" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/extreme-sports.png",Extreme Sports
 http://tv.leveltele.com:2222/260/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="russian-extreme-uhd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/russian-extreme-uhd.png",Russian Extreme HD
+http://tv.leveltele.com:2222/255/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="tvplay-sports" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/tvplay-sports.png",Viasat Sport
 http://tv.leveltele.com:2222/250/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="avto-plus" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/avto-plus.png",Авто Плюс
@@ -297,10 +299,10 @@ http://tv.leveltele.com:2222/237/index.m3u8
 http://tv.leveltele.com:2222/240/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-football3" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/match-football3.png",Матч! Футбол 3 HD
 http://tv.leveltele.com:2222/239/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="football-ru" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/football-ru.png",Футбол
+http://tv.leveltele.com:2222/361/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="start" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/start.png",Старт
 http://tv.leveltele.com:2222/205/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="russian-extreme-uhd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/russian-extreme-uhd.png",Russian Extreme HD
-http://tv.leveltele.com:2222/255/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="amedia-hit" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/amedia-hit.png",A HOME OF HBO 1
 http://tv.leveltele.com:2222/173/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="amedia-hit" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/amedia-hit.png",A HOME OF HBO 1 HD
