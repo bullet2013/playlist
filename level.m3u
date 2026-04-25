@@ -9,8 +9,6 @@ http://tv.leveltele.com:2222/300/index.m3u8
 http://tv.leveltele.com:2222/299/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="v-gostiax-u-skazki" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/v-gostiax-u-skazki.png",В гостях у сказки
 http://tv.leveltele.com:2222/306/index.m3u8
-#EXTINF:0 group-title="Детские" tvg-id="detsky-mir" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/detsky-mir.png",Детский мир
-http://tv.leveltele.com:2222/305/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="karusel" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/karusel.png",Карусель
 http://tv.leveltele.com:2222/304/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="mult" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/mult.png",Мульт
@@ -39,10 +37,6 @@ http://tv.leveltele.com:2222/282/index.m3u8
 http://tv.leveltele.com:2222/283/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="europa-plus-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/europa-plus-tv.png",Europa Plus TV
 http://tv.leveltele.com:2222/272/index.m3u8
-#EXTINF:0 group-title="Музыка" tvg-id="mezzo" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/mezzo.png",Mezzo
-http://tv.leveltele.com:2222/288/index.m3u8
-#EXTINF:0 group-title="Музыка" tvg-id="mezzo-live-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/mezzo-live-hd.png",Mezzo Live HD
-http://tv.leveltele.com:2222/287/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="ru-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/ru-tv.png",RU.TV
 http://tv.leveltele.com:2222/276/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="vostok-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/vostok-tv.png",Восток ТВ
@@ -59,8 +53,6 @@ http://tv.leveltele.com:2222/277/index.m3u8
 http://tv.leveltele.com:2222/273/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="tnt-music" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/tnt-music.png",ТНТ Music
 http://tv.leveltele.com:2222/275/index.m3u8
-#EXTINF:0 group-title="Музыка" tvg-id="shanson-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/shanson-tv.png",Шансон-TB
-http://tv.leveltele.com:2222/286/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="belarus24" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/belarus24.png",Беларусь-24
 http://tv.leveltele.com:2222/325/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="vremia" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/vremia.png",Время
@@ -151,22 +143,14 @@ http://tv.leveltele.com:2222/326/index.m3u8
 http://tv.leveltele.com:2222/33/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="yu" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/yu.png",Ю
 http://tv.leveltele.com:2222/44/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Юниoн
-http://tv.leveltele.com:2222/351/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="365-dnej" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/365-dnej.png",365 дней ТВ
 http://tv.leveltele.com:2222/89/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="da-vinci" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/da-vinci.png",Da Vinci Learning
 http://tv.leveltele.com:2222/104/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="docubox-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/docubox-hd.png",DocuBox
 http://tv.leveltele.com:2222/64/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="e-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/e-tv.png",E TV
-http://tv.leveltele.com:2222/262/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="fashion-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/fashion-tv.png",Fashion TV HD
 http://tv.leveltele.com:2222/144/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="fashionbox-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/fashionbox-hd.png",FashionBox
-http://tv.leveltele.com:2222/146/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="galaxy-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/galaxy-tv.png",Galaxy-TV
-http://tv.leveltele.com:2222/100/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="hd-life" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/hdl.png",HD Life
 http://tv.leveltele.com:2222/76/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="ocean-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/ocean-tv.png",Ocean TV
@@ -213,14 +197,14 @@ http://tv.leveltele.com:2222/132/index.m3u8
 http://tv.leveltele.com:2222/93/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="domashnie-zhivotnye" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/domashnie-zhivotnye.png",Домашние животные
 http://tv.leveltele.com:2222/85/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="eda-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/eda-hd.png",Еда Премиум HD
+http://tv.leveltele.com:2222/117/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="zhivaya-planeta" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/zhivaya-planeta.png",Живая планета
 http://tv.leveltele.com:2222/83/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="zhivaya-priroda" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/zhivaya-priroda.png",Живая природа HD
 http://tv.leveltele.com:2222/55/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="zhivi" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/zhivi.png",Живи
 http://tv.leveltele.com:2222/121/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="zagorodnaya-zhizn" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/zagorodnaya-zhizn.png",Загородная жизнь
-http://tv.leveltele.com:2222/82/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="istoria" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/istoria.png",История
 http://tv.leveltele.com:2222/90/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="kto-est-kto" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kto-est-kto.png",Кто есть кто
@@ -229,18 +213,12 @@ http://tv.leveltele.com:2222/106/index.m3u8
 http://tv.leveltele.com:2222/118/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="mama" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/mama.png",Мама
 http://tv.leveltele.com:2222/316/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="mir-uvlecheniy" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/mir-uvlecheniy.png",Мир увлечений
-http://tv.leveltele.com:2222/143/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="morskoy" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/morskoy.png",Морской
 http://tv.leveltele.com:2222/133/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="moya-planeta" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/moya-planeta.png",Моя Планета
 http://tv.leveltele.com:2222/101/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="moya-planeta" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/moya-planeta.png",Моя Планета HD
 http://tv.leveltele.com:2222/109/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="muzhskoy" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/muzhskoy.png",Мужской
-http://tv.leveltele.com:2222/134/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="nano-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/nano.png",Нано
-http://tv.leveltele.com:2222/111/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="nauka-20" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/nauka-20.png",Наука 2.0
 http://tv.leveltele.com:2222/69/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="ntv-pravo" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/ntv-pravo.png",НТВ Право
@@ -251,14 +229,14 @@ http://tv.leveltele.com:2222/122/index.m3u8
 http://tv.leveltele.com:2222/130/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="oxotnik-i-rybolov-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/oxotnik-i-rybolov-hd.png",Охотник и рыболов HD
 http://tv.leveltele.com:2222/52/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="pervy-vegetariansky" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/pervy-vegetariansky.png",Первый вегетарианский
-http://tv.leveltele.com:2222/108/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="eureka-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kosmichesky.png",Первый Космический HD
 http://tv.leveltele.com:2222/67/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="prikluchenia-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/prikluchenia-hd.png",Приключения HD
 http://tv.leveltele.com:2222/50/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="radost-moya" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/radost-moya.png",Радость моя
 http://tv.leveltele.com:2222/49/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="rus-istoria" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/rus-istoria.png",Русская история
+http://tv.leveltele.com:2222/225/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="sovsek" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/sovsek.png",Совершенно секретно
 http://tv.leveltele.com:2222/107/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="soyuz" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/soyuz.png",Союз
@@ -273,14 +251,8 @@ http://tv.leveltele.com:2222/119/index.m3u8
 http://tv.leveltele.com:2222/99/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="usadba" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/usadba.png",Усадьба
 http://tv.leveltele.com:2222/81/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="uspex" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/uspex.png",Успех
-http://tv.leveltele.com:2222/97/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="extreme-sports" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/extreme-sports.png",Extreme Sports
 http://tv.leveltele.com:2222/260/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="fastfunbox-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/fastfunbox-hd.png",Fast & FunBox
-http://tv.leveltele.com:2222/142/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="fightbox-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/fightbox-hd.png",FightBox
-http://tv.leveltele.com:2222/259/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="tvplay-sports" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/tvplay-sports.png",Viasat Sport
 http://tv.leveltele.com:2222/250/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="avto-plus" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/avto-plus.png",Авто Плюс
@@ -327,6 +299,8 @@ http://tv.leveltele.com:2222/240/index.m3u8
 http://tv.leveltele.com:2222/239/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="start" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/start.png",Старт
 http://tv.leveltele.com:2222/205/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="russian-extreme-uhd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/russian-extreme-uhd.png",Russian Extreme HD
+http://tv.leveltele.com:2222/255/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="amedia-hit" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/amedia-hit.png",A HOME OF HBO 1
 http://tv.leveltele.com:2222/173/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="amedia-hit" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/amedia-hit.png",A HOME OF HBO 1 HD
@@ -345,10 +319,6 @@ http://tv.leveltele.com:2222/186/index.m3u8
 http://tv.leveltele.com:2222/200/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="cinema-ru" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/cinema.png",Cinema HD
 http://tv.leveltele.com:2222/528/index.m3u8
-#EXTINF:0 group-title="Фильмы" tvg-id="filmbox-ru" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/filmbox-ru.png",FilmBox
-http://tv.leveltele.com:2222/225/index.m3u8
-#EXTINF:0 group-title="Фильмы" tvg-id="filmbox-arthouse" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/filmbox-arthouse.png",FilmBox ArtHouse
-http://tv.leveltele.com:2222/226/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="hollywood" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/hollywood.png",Hollywood
 http://tv.leveltele.com:2222/185/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="hollywood-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/hollywood-hd.png",Hollywood HD
@@ -401,10 +371,10 @@ http://tv.leveltele.com:2222/154/index.m3u8
 http://tv.leveltele.com:2222/198/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kinomiks" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinomiks.png",Киномикс
 http://tv.leveltele.com:2222/159/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="kinomiks" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinomiks.png",Киномикс HD
+http://tv.leveltele.com:2222/330/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kinopremiera-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinopremiera.png",Кинопремьера HD
 http://tv.leveltele.com:2222/153/index.m3u8
-#EXTINF:0 group-title="Фильмы" tvg-id="kinosat" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinosat.png",Киносат
-http://tv.leveltele.com:2222/358/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kinosvidanie" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinosvidanie.png",Киносвидание
 http://tv.leveltele.com:2222/197/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="kinosemiya" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinosemia.png",Киносемья
@@ -417,10 +387,8 @@ http://tv.leveltele.com:2222/500/index.m3u8
 http://tv.leveltele.com:2222/192/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="komedijnoe-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/komedijnoe.png",Комедийное HD
 http://tv.leveltele.com:2222/148/index.m3u8
-#EXTINF:0 group-title="Фильмы" tvg-id="lubimoe-kino" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/lubimoe-kino.png",Любимое кино
-http://tv.leveltele.com:2222/212/index.m3u8
-#EXTINF:0 group-title="Фильмы" tvg-id="mir-seriala" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/mir-seriala.png",Мир сериала
-http://tv.leveltele.com:2222/222/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="nashe-lubimoe-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/nashe-lubimoe-hd.png",Любимое HD
+http://tv.leveltele.com:2222/189/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="doverie" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/doverie.png",Москва. Доверие
 http://tv.leveltele.com:2222/31/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="muzhskoe-kino" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/muzhskoe-kino.png",Мужское кино
@@ -455,3 +423,5 @@ http://tv.leveltele.com:2222/215/index.m3u8
 http://tv.leveltele.com:2222/216/index.m3u8
 #EXTINF:0 group-title="Фильмы" tvg-id="sapfir" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/sapfir.png",Сапфир
 http://tv.leveltele.com:2222/180/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="shokiruyushchee-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/shokiruyushchee-hd.png",Шокирующее HD
+http://tv.leveltele.com:2222/147/index.m3u8
