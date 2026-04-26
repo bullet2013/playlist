@@ -29,6 +29,8 @@ http://tv.leveltele.com:2222/309/index.m3u8
 http://tv.leveltele.com:2222/125/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="detsky" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/unikum.png",Уникум
 http://tv.leveltele.com:2222/307/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="nickelodeon-ru" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/nickelodeon-ru.png",Nickelodeon
+https://streamer-2.enchart.one/42/740b23918155f6b45e22cb1844e71d755253ff7b/190/stream.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="bridge-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/bridge-hd.png",Bridge HD
 http://tv.leveltele.com:2222/264/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="bridge-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/bridge-tv.png",Bridge TV
