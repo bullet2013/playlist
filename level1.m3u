@@ -1,0 +1,433 @@
+#EXTM3U url-tvg=iptvx.one
+#EXTINF:0 group-title="Детские" tvg-id="2na2" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/2x2.png",2x2
+http://31.41.12.104:2222/311/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="ani" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/ani.png",Ani
+http://31.41.12.104:2222/313/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="gulli-girl" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/gulligirl.png",Gulli Girl
+http://31.41.12.104:2222/300/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="tiji" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/tiji.png",TiJi
+http://31.41.12.104:2222/299/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="v-gostiax-u-skazki" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/v-gostiax-u-skazki.png",В гостях у сказки
+http://31.41.12.104:2222/306/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="karusel" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/karusel.png",Карусель
+http://31.41.12.104:2222/304/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="mult" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/mult.png",Мульт
+http://31.41.12.104:2222/308/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="mult" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/mult.png",Мульт HD
+http://31.41.12.104:2222/296/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="multimania" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/multimania.png",Мультимания
+http://31.41.12.104:2222/303/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="multimuzyka" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/multimuzyka.png",МультиМузыка
+http://31.41.12.104:2222/315/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="o_" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/o_.png",О!
+http://31.41.12.104:2222/310/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="solnce" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/solnce.png",Солнце
+http://31.41.12.104:2222/298/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="sts-kids-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/sts-kids-hd.png",СТС Kids
+http://31.41.12.104:2222/309/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="sts-kids-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/sts-kids-hd.png",СТС Kids HD
+http://31.41.12.104:2222/125/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="detsky" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/unikum.png",Уникум
+http://31.41.12.104:2222/307/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="nickelodeon-ru" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/nickelodeon-ru.png",Nickelodeon
+https://streamer-2.enchart.one/42/740b23918155f6b45e22cb1844e71d755253ff7b/190/stream.m3u8
+#EXTINF:0 group-title="Музыка" tvg-id="bridge-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/bridge-hd.png",Bridge HD
+http://31.41.12.104:2222/264/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-id="bridge-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/bridge-tv.png",Bridge TV
+http://31.41.12.104:2222/282/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-id="bridge-tv-ruxit" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/bridge-tv-ruxit.png",Bridge TV Русский хит
+http://31.41.12.104:2222/283/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-id="europa-plus-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/europa-plus-tv.png",Europa Plus TV
+http://31.41.12.104:2222/272/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-id="ru-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/ru-tv.png",RU.TV
+http://31.41.12.104:2222/276/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-id="vostok-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/vostok-tv.png",Восток ТВ
+http://31.41.12.104:2222/289/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-id="zhara" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/zhara.png",Жара
+http://31.41.12.104:2222/274/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-id="la-minor" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/la-minor.png",Ля-минор
+http://31.41.12.104:2222/285/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-id="maydan" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/maydan.png",Майдан
+http://31.41.12.104:2222/290/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-id="muztv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/muztv.png",Муз-ТВ
+http://31.41.12.104:2222/277/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-id="muzyka-pervogo" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/muzyka-pervogo.png",Музыка Первого
+http://31.41.12.104:2222/273/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-id="tnt-music" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/tnt-music.png",ТНТ Music
+http://31.41.12.104:2222/275/index.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="belarus24" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/belarus24.png",Беларусь-24
+http://31.41.12.104:2222/325/index.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="vremia" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/vremia.png",Время
+http://31.41.12.104:2222/38/index.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="izvestia" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/izvestia.png",Известия
+http://31.41.12.104:2222/7/index.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="mir-24" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/mir24.png",Мир 24
+http://31.41.12.104:2222/16/index.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="moskva-24" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/moskva-24.png",Москва-24
+http://31.41.12.104:2222/21/index.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="rbk" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/rbk.png",РБК
+http://31.41.12.104:2222/23/index.m3u8
+#EXTINF:0 group-title="Новостные" tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/rossia-24.png",Россия 24
+http://31.41.12.104:2222/19/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="360-podmoskovie" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/360-podmoskovie.png",360° Подмосковье
+http://31.41.12.104:2222/9/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="360-podmoskovie" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/360-podmoskovie.png",360° Подмосковье HD
+http://31.41.12.104:2222/8/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="8kanal-ru" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/8kanal-ru.png",8 канал
+http://31.41.12.104:2222/27/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="domashny" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/domashny.png",Домашний
+http://31.41.12.104:2222/35/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="zvezda" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/zvezda.png",Звезда
+http://31.41.12.104:2222/18/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="kvn-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kvn-tv.png",КВН ТВ
+http://31.41.12.104:2222/115/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="kluch" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kluch.png",Ключ
+http://31.41.12.104:2222/98/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="mir" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/mir.png",Мир
+http://31.41.12.104:2222/28/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Новороссия ТВ
+http://31.41.12.104:2222/355/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="ntv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/ntv-white.png",НТВ
+http://31.41.12.104:2222/13/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="ntv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/ntv-white.png",НТВ HD
+http://31.41.12.104:2222/12/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Оплот 2 TV
+http://31.41.12.104:2222/353/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Оплот HD
+http://31.41.12.104:2222/356/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="otr" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/otr.png",ОТР
+http://31.41.12.104:2222/22/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="pervy" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/pervyj.png",Первый канал
+http://31.41.12.104:2222/2/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="pervy" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/pervyj.png",Первый канал HD
+http://31.41.12.104:2222/1/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="" tvg-logo="",Первый Республиканский
+http://31.41.12.104:2222/354/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="piatnica" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/pyatnica.png",Пятница
+http://31.41.12.104:2222/32/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="5kanal-ru" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/5kanal-ru.png",Пятый канал
+http://31.41.12.104:2222/25/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="rentv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/rentv.png",Рен ТВ
+http://31.41.12.104:2222/24/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="rossia1" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/rossia1.png",Россия 1
+http://31.41.12.104:2222/5/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="rossia1" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/rossia1.png",Россия 1 HD
+http://31.41.12.104:2222/4/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="kultura" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kultura.png",Россия К
+http://31.41.12.104:2222/45/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="sarafan" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/sarafan.png",Сарафан
+http://31.41.12.104:2222/34/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="sts" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/sts.png",СТС
+http://31.41.12.104:2222/30/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="sts" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/sts.png",СТС HD
+http://31.41.12.104:2222/360/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="sts-love" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/sts-love.png",СТС Love
+http://31.41.12.104:2222/223/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="super" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/subbota.png",Суббота!
+http://31.41.12.104:2222/42/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="tvcentr" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/tvcentr.png",ТВ Центр
+http://31.41.12.104:2222/29/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="tv3-ru" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/tv3-ru.png",ТВ-3
+http://31.41.12.104:2222/26/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="tnv-planeta" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/tnv.png",ТНВ-Планета
+http://31.41.12.104:2222/327/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="tnt" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/tnt.png",ТНТ
+http://31.41.12.104:2222/113/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="tnt" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/tnt.png",ТНТ HD
+http://31.41.12.104:2222/112/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="tnt4" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/tnt4.png",ТНТ4
+http://31.41.12.104:2222/114/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="tochka-otryva" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/tochka-otryva.png",Точка отрыва
+http://31.41.12.104:2222/261/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="tro" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/belros.png",ТРО
+http://31.41.12.104:2222/326/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="che" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/che.png",Че
+http://31.41.12.104:2222/33/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="yu" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/yu.png",Ю
+http://31.41.12.104:2222/44/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="365-dnej" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/365-dnej.png",365 дней ТВ
+http://31.41.12.104:2222/89/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="da-vinci" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/da-vinci.png",Da Vinci Learning
+http://31.41.12.104:2222/104/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="docubox-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/docubox-hd.png",DocuBox
+http://31.41.12.104:2222/64/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="fashion-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/fashion-tv.png",Fashion TV HD
+http://31.41.12.104:2222/144/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="hd-life" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/hdl.png",HD Life
+http://31.41.12.104:2222/76/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="ocean-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/ocean-tv.png",Ocean TV
+http://31.41.12.104:2222/103/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="rt-doc" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/rt-doc.png",RT Д
+http://31.41.12.104:2222/323/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="rtg-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/rtg-tv.png",RTG
+http://31.41.12.104:2222/61/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="rtg-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/rtg-hd.png",RTG HD
+http://31.41.12.104:2222/60/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="terra-ru" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/terra-ru.png",Terra
+http://31.41.12.104:2222/59/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="terra-ru" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/terra-ru.png",Terra HD
+http://31.41.12.104:2222/58/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="travel-adventure" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/travel-adventure.png",Travel+Adventure
+http://31.41.12.104:2222/63/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-explore" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/viasat-explore.png",Viasat Explore
+http://31.41.12.104:2222/86/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-history" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/viasat-history.png",Viasat History
+http://31.41.12.104:2222/87/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-nature-cee" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/viasat-nature.png",Viasat Nature CEE
+http://31.41.12.104:2222/88/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-nature-history-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/viasat-nature-history-hd.png",Viasat Nature/History HD
+http://31.41.12.104:2222/77/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zoopark" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/zoopark.png",ZooПарк
+http://31.41.12.104:2222/84/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="bobior" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/bober.png",Бобер
+http://31.41.12.104:2222/124/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="bolshaya-azia" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/bolshaya-azia.png",Большая Азия
+http://31.41.12.104:2222/36/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/v-mire-zhivotnyx.png",В мире животных HD
+http://31.41.12.104:2222/75/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="glazami-turista" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/glazami-turista.png",Глазами туриста HD
+http://31.41.12.104:2222/51/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="dialogi-o-rybalke" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/dialogi-o-rybalke.png",Диалоги о рыбалке
+http://31.41.12.104:2222/131/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="dikaya-oxota-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/dikaya-oxota-hd.png",Дикая охота HD
+http://31.41.12.104:2222/145/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="dikaya-rybalka-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/dikaya-rybalka-hd.png",Дикая рыбалка HD
+http://31.41.12.104:2222/126/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="dikiy" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/dikiy.png",Дикий
+http://31.41.12.104:2222/132/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="doktor" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/doktor.png",Доктор
+http://31.41.12.104:2222/93/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="domashnie-zhivotnye" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/domashnie-zhivotnye.png",Домашние животные
+http://31.41.12.104:2222/85/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="eda-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/eda-hd.png",Еда Премиум HD
+http://31.41.12.104:2222/117/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zhivaya-planeta" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/zhivaya-planeta.png",Живая планета
+http://31.41.12.104:2222/83/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zhivaya-priroda" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/zhivaya-priroda.png",Живая природа HD
+http://31.41.12.104:2222/55/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zhivi" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/zhivi.png",Живи
+http://31.41.12.104:2222/121/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="istoria" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/istoria.png",История
+http://31.41.12.104:2222/90/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="kto-est-kto" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kto-est-kto.png",Кто есть кто
+http://31.41.12.104:2222/106/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="kuxnia-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kuhnia.png",Кухня ТВ
+http://31.41.12.104:2222/118/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="mama" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/mama.png",Мама
+http://31.41.12.104:2222/316/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="morskoy" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/morskoy.png",Морской
+http://31.41.12.104:2222/133/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="moya-planeta" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/moya-planeta.png",Моя Планета
+http://31.41.12.104:2222/101/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="moya-planeta" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/moya-planeta.png",Моя Планета HD
+http://31.41.12.104:2222/109/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nauka-20" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/nauka-20.png",Наука 2.0
+http://31.41.12.104:2222/69/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="ntv-pravo" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/ntv-pravo.png",НТВ Право
+http://31.41.12.104:2222/40/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="ntv-style" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/ntv-style.png",НТВ Стиль
+http://31.41.12.104:2222/122/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="oxota-i-rybalka" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/oxota-i-rybalka.png",Охота и рыбалка
+http://31.41.12.104:2222/130/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="oxotnik-i-rybolov-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/oxotnik-i-rybolov-hd.png",Охотник и рыболов HD
+http://31.41.12.104:2222/52/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="eureka-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kosmichesky.png",Первый Космический HD
+http://31.41.12.104:2222/67/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="prikluchenia-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/prikluchenia-hd.png",Приключения HD
+http://31.41.12.104:2222/50/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="radost-moya" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/radost-moya.png",Радость моя
+http://31.41.12.104:2222/49/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="rus-istoria" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/rus-istoria.png",Русская история
+http://31.41.12.104:2222/225/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="sovsek" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/sovsek.png",Совершенно секретно
+http://31.41.12.104:2222/107/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="soyuz" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/soyuz.png",Союз
+http://31.41.12.104:2222/47/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="spas" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/spas.png",Спас
+http://31.41.12.104:2222/48/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="teatr" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/teatr.png",Театр
+http://31.41.12.104:2222/46/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="telekafe" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/telekafe.png",Телекафе
+http://31.41.12.104:2222/119/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="texno-24" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/texno-24.png",Техно 24
+http://31.41.12.104:2222/99/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="usadba" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/usadba.png",Усадьба
+http://31.41.12.104:2222/81/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="extreme-sports" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/extreme-sports.png",Extreme Sports
+http://31.41.12.104:2222/260/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="russian-extreme-uhd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/russian-extreme-uhd.png",Russian Extreme HD
+http://31.41.12.104:2222/255/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="tvplay-sports" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/tvplay-sports.png",Viasat Sport
+http://31.41.12.104:2222/250/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="avto-plus" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/avto-plus.png",Авто Плюс
+http://31.41.12.104:2222/139/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="avto24" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/avto24.png",Авто24
+http://31.41.12.104:2222/138/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="box-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/box-tv.png",Бокс ТВ
+http://31.41.12.104:2222/258/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="kxl" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/khl.png",КХЛ
+http://31.41.12.104:2222/252/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="kxl-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/khl-hd.png",КХЛ HD
+http://31.41.12.104:2222/251/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/match-tv.png",Матч!
+http://31.41.12.104:2222/230/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/match-tv.png",Матч! HD
+http://31.41.12.104:2222/229/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-arena" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/match-arena.png",Матч! Арена
+http://31.41.12.104:2222/234/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-arena" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/match-arena.png",Матч! Арена HD
+http://31.41.12.104:2222/233/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-boets" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/match-boec.png",Матч! Боец
+http://31.41.12.104:2222/257/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-igra" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/match-igra.png",Матч! Игра
+http://31.41.12.104:2222/232/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-igra" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/match-igra.png",Матч! Игра HD
+http://31.41.12.104:2222/231/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-premier" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/match-premiere.png",Матч! Премьер
+http://31.41.12.104:2222/242/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-premier" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/match-premiere.png",Матч! Премьер HD
+http://31.41.12.104:2222/241/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-nash-sport" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/match-strana.png",Матч! Страна
+http://31.41.12.104:2222/256/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-football1" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/match-football1.png",Матч! Футбол 1
+http://31.41.12.104:2222/236/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-football1" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/match-football1.png",Матч! Футбол 1 HD
+http://31.41.12.104:2222/235/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-football2" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/match-football2.png",Матч! Футбол 2
+http://31.41.12.104:2222/238/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-football2" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/match-football2.png",Матч! Футбол 2 HD
+http://31.41.12.104:2222/237/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-football3" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/match-football3.png",Матч! Футбол 3
+http://31.41.12.104:2222/240/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-football3" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/match-football3.png",Матч! Футбол 3 HD
+http://31.41.12.104:2222/239/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="football-ru" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/football-ru.png",Футбол
+http://31.41.12.104:2222/361/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="start" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/start.png",Старт
+http://31.41.12.104:2222/205/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="amedia-hit" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/amedia-hit.png",A HOME OF HBO 1
+http://31.41.12.104:2222/173/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="amedia-hit" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/amedia-hit.png",A HOME OF HBO 1 HD
+http://31.41.12.104:2222/329/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="amedia-premium" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/amedia-premium.png",A HOME OF HBO 2 HD
+http://31.41.12.104:2222/171/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="amedia1" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/amedia1.png",A1
+http://31.41.12.104:2222/174/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="amedia2" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/amedia2.png",A2
+http://31.41.12.104:2222/176/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="amedia2" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/amedia2.png",A2 HD
+http://31.41.12.104:2222/175/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="bollywood-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/bollywood-hd.png",Bollywood HD
+http://31.41.12.104:2222/186/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="cinema-ru" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/cinema.png",Cinema
+http://31.41.12.104:2222/200/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="cinema-ru" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/cinema.png",Cinema HD
+http://31.41.12.104:2222/528/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="hollywood" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/hollywood.png",Hollywood
+http://31.41.12.104:2222/185/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="hollywood-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/hollywood-hd.png",Hollywood HD
+http://31.41.12.104:2222/184/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="shot-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/shot-tv.png",Shot TV
+http://31.41.12.104:2222/207/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="sony-scifi" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/sony-scifi.png",Sony Sci-Fi
+http://31.41.12.104:2222/208/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="sony-turbo" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/sony-turbo.png",Sony Turbo
+http://31.41.12.104:2222/209/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="sony-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/sony.png",Sony ТВ
+http://31.41.12.104:2222/170/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="sony-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/sony.png",Sony ТВ HD
+http://31.41.12.104:2222/188/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="tvxxi" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/tvxxi.png",TV XXI
+http://31.41.12.104:2222/202/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="tv1000" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/tv1000.png",TV1000
+http://31.41.12.104:2222/161/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="tv1000-action" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/tv1000action.png",TV1000 Action
+http://31.41.12.104:2222/163/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="tv1000-russkoe-kino" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/tv1000ruskino.png",TV1000 Русское кино
+http://31.41.12.104:2222/165/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="vip-comedy" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/vip-comedy.png",ViP Comedy HD
+http://31.41.12.104:2222/151/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="vip-megahit" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/vip-megahit.png",ViP Megahit HD
+http://31.41.12.104:2222/149/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="vip-premiere" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/vip-premiere.png",ViP Premiere HD
+http://31.41.12.104:2222/150/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="zee-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/zee-tv.png",Zee-TV
+http://31.41.12.104:2222/224/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="denpobedy" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/denpobedy.png",День Победы HD
+http://31.41.12.104:2222/527/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="domkino" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/domkino.png",Дом Кино
+http://31.41.12.104:2222/203/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="domkino-premium" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/domkino-premium.png",Дом кино Премиум HD
+http://31.41.12.104:2222/168/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="dorama" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/dorama.png",Дорама
+http://31.41.12.104:2222/228/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="evrokino" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/eurokino.png",Еврокино
+http://31.41.12.104:2222/201/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="illuzion-plus" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/illuzion-plus.png",Иллюзион +
+http://31.41.12.104:2222/204/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="indiyskoe-kino" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/indijskoe-kino.png",Индийское кино
+http://31.41.12.104:2222/199/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="kineko" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kineko.png",Кинеко
+http://31.41.12.104:2222/178/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="kineko" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kineko.png",Кинеко HD
+http://31.41.12.104:2222/177/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="kino-tv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kino-tv.png",Кино ТВ HD
+http://31.41.12.104:2222/154/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="kinokomedia" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinokomedia.png",Кинокомедия
+http://31.41.12.104:2222/198/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="kinomiks" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinomiks.png",Киномикс
+http://31.41.12.104:2222/159/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="kinomiks" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinomiks.png",Киномикс HD
+http://31.41.12.104:2222/330/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="kinopremiera-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinopremiera.png",Кинопремьера HD
+http://31.41.12.104:2222/153/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="kinosvidanie" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinosvidanie.png",Киносвидание
+http://31.41.12.104:2222/197/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="kinosemiya" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinosemia.png",Киносемья
+http://31.41.12.104:2222/193/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="kinoseria" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinoseria.png",Киносерия
+http://31.41.12.104:2222/194/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="kinouzhas" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinouzhas.png",Киноужас
+http://31.41.12.104:2222/500/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="kinoxit" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/kinoxit.png",Кинохит
+http://31.41.12.104:2222/192/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="komedijnoe-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/komedijnoe.png",Комедийное HD
+http://31.41.12.104:2222/148/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="nashe-lubimoe-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/nashe-lubimoe-hd.png",Любимое HD
+http://31.41.12.104:2222/189/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="doverie" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/doverie.png",Москва. Доверие
+http://31.41.12.104:2222/31/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="muzhskoe-kino" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/muzhskoe-kino.png",Мужское кино
+http://31.41.12.104:2222/157/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="nashe-novoe-kino" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/nashe-novoe-kino.png",Наше новое кино
+http://31.41.12.104:2222/195/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="nostalgia" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/nostalgia.png",Ностальгия
+http://31.41.12.104:2222/39/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="nst" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/nst.png",НСТ
+http://31.41.12.104:2222/211/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="ntv-serial" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/ntv-serial.png",НТВ Сериал
+http://31.41.12.104:2222/221/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="ntv-xit" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/ntv-xit.png",НТВ Хит
+http://31.41.12.104:2222/220/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="ostrosiuzhetnoe-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/ostrosiuzhetnoe-hd.png",Остросюжетное HD
+http://31.41.12.104:2222/155/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="pobeda" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/pobeda.png",Победа
+http://31.41.12.104:2222/213/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="premialnoe-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/premialnoe.png",Премиальное HD
+http://31.41.12.104:2222/187/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="rodnoe-kino" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/rodnoe-kino.png",Родное кино
+http://31.41.12.104:2222/196/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="russkaya-komedia" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/russkaya-komedia.png",Русская комедия
+http://31.41.12.104:2222/219/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="russky-bestseller" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/russky-bestseller.png",Русский бестселлер
+http://31.41.12.104:2222/217/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="russky-detektiv" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/russky-detektiv.png",Русский детектив
+http://31.41.12.104:2222/218/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="russky-illuzion" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/russky-illuzion.png",Русский иллюзион
+http://31.41.12.104:2222/215/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="russky-roman" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/russky-roman.png",Русский роман
+http://31.41.12.104:2222/216/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="sapfir" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/sapfir.png",Сапфир
+http://31.41.12.104:2222/180/index.m3u8
+#EXTINF:0 group-title="Фильмы" tvg-id="shokiruyushchee-hd" tvg-logo="https://raw.githubusercontent.com/bullet2013/picoins/refs/heads/main/shokiruyushchee-hd.png",Шокирующее HD
+http://31.41.12.104:2222/147/index.m3u8
